@@ -1,0 +1,1 @@
+Daily Average = SUM('Steps'[Daily_Total])/COUNT('Steps'[Daily_Total])
