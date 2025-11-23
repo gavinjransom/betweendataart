@@ -1,0 +1,17 @@
+@import url("../../common/css/base.css");
+
+.holding-container {
+    width: auto;
+    padding-left: 17.5%;
+}
+
+.tippy-box[data-theme~='light'] {
+    background-color: #757e63;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 100;
+    font-size: 15px;
+}
+
+.tippy-box[data-theme~='light'] .tippy-arrow {
+color: #757e63;
+}

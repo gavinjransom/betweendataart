@@ -1,0 +1,48 @@
+@import url("../../common/css/base.css");
+@import url("./desktop.css");
+
+svg {
+    color:#e4e9dd
+}
+
+image {
+    border: #f43307;
+    border-width: 1px;
+    border-style: solid;
+}
+
+select {
+    font-weight: 100;
+}
+
+.axis path {
+    stroke: none;
+}
+
+.axis line {
+    stroke: red;
+}
+
+ .axis .tick {
+    display: none;  
+}
+
+.axis .domain {
+    stroke: none;  
+}
+
+.text {
+    color:#2256f1
+}
+
+.axis text {
+    display: none; 
+} 
+
+.pitch {
+    transition: opacity 0.3s ease-in-out;
+}
+
+.goal-path {
+    transition: opacity 0.1s ease-in-out;
+}

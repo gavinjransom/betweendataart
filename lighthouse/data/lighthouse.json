@@ -1,0 +1,1499 @@
+[
+  {
+    "Name": "Ailsa Craig",
+    "Latitude": "55.2517",
+    "Longitude": "-5.1067",
+    "Location": "South Ayrshire",
+    "Year": "1886",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Ardnamurchan",
+    "Latitude": "56.7272",
+    "Longitude": "-6.2261",
+    "Location": "Highland",
+    "Year": "1849",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Barns Ness",
+    "Latitude": "55.9872",
+    "Longitude": "-2.4453",
+    "Location": "East Lothian",
+    "Year": "1899",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Barra Head",
+    "Latitude": "56.7853",
+    "Longitude": "-7.6536",
+    "Location": "Outer Hebrides",
+    "Year": "1833",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Bass Rock",
+    "Latitude": "56.0767",
+    "Longitude": "-2.6411",
+    "Location": "East Lothian",
+    "Year": "1902",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Bell Rock",
+    "Latitude": "56.4328",
+    "Longitude": "-2.3881",
+    "Location": "Angus",
+    "Year": "1810",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Buchan Ness",
+    "Latitude": "57.4703",
+    "Longitude": "-1.7744",
+    "Location": "Aberdeenshire",
+    "Year": "1827",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Butt of Lewis",
+    "Latitude": "58.5156",
+    "Longitude": "-6.2608",
+    "Location": "Outer Hebrides",
+    "Year": "1862",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Cape Wrath",
+    "Latitude": "58.6256",
+    "Longitude": "-4.9992",
+    "Location": "Highland",
+    "Year": "1828",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Chanonry",
+    "Latitude": "57.5739",
+    "Longitude": "-4.0928",
+    "Location": "Highland",
+    "Year": "1846",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Cloch",
+    "Latitude": "55.9422",
+    "Longitude": "-4.8786",
+    "Location": "Inverclyde",
+    "Year": "1797",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Corran Point",
+    "Latitude": "56.7208",
+    "Longitude": "-5.2422",
+    "Location": "Highland",
+    "Year": "1817",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Corsewall",
+    "Latitude": "55.0069",
+    "Longitude": "-5.1592",
+    "Location": "Dumfries and Galloway",
+    "Year": "1816",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Covesea Skerries",
+    "Latitude": "57.7242",
+    "Longitude": "-3.3386",
+    "Location": "Moray",
+    "Year": "1846",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Crammag Head",
+    "Latitude": "54.6647",
+    "Longitude": "-4.965",
+    "Location": "Dumfries and Galloway",
+    "Year": "1913",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Cromarty",
+    "Latitude": "57.6831",
+    "Longitude": "-4.0364",
+    "Location": "Highland",
+    "Year": "1846",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Davaar",
+    "Latitude": "55.4281",
+    "Longitude": "-5.5406",
+    "Location": "Argyll and Bute",
+    "Year": "1854",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Dubh Artach",
+    "Latitude": "56.1331",
+    "Longitude": "-6.6328",
+    "Location": "Argyll and Bute",
+    "Year": "1872",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Duncansby Head",
+    "Latitude": "58.6439",
+    "Longitude": "-3.0253",
+    "Location": "Highland",
+    "Year": "1924",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Dunnet Head",
+    "Latitude": "58.6714",
+    "Longitude": "-3.3764",
+    "Location": "Highland",
+    "Year": "1831",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Eilean Glas",
+    "Latitude": "57.8569",
+    "Longitude": "-6.6419",
+    "Location": "Outer Hebrides",
+    "Year": "1789",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Elie Ness",
+    "Latitude": "56.1839",
+    "Longitude": "-2.8128",
+    "Location": "Fife",
+    "Year": "1908",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Fidra",
+    "Latitude": "56.0733",
+    "Longitude": "-2.785",
+    "Location": "East Lothian",
+    "Year": "1885",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Fife Ness",
+    "Latitude": "56.2789",
+    "Longitude": "-2.5858",
+    "Location": "Fife",
+    "Year": "1975",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Flannan Isles",
+    "Latitude": "58.2883",
+    "Longitude": "-7.5881",
+    "Location": "Outer Hebrides",
+    "Year": "1899",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Girdleness",
+    "Latitude": "57.1389",
+    "Longitude": "-2.0486",
+    "Location": "Aberdeenshire",
+    "Year": "1833",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Holburn Head",
+    "Latitude": "58.6147",
+    "Longitude": "-3.5394",
+    "Location": "Highland",
+    "Year": "1862",
+    "Country": "Thurso"
+  },
+  {
+    "Name": "Holy Isle Inner",
+    "Latitude": "55.5122",
+    "Longitude": "-5.0703",
+    "Location": "North Ayrshire",
+    "Year": "1877",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Holy Isle Outer",
+    "Latitude": "55.5172",
+    "Longitude": "-5.0608",
+    "Location": "North Ayrshire",
+    "Year": "1905",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Hyskeir",
+    "Latitude": "56.9689",
+    "Longitude": "-6.6808",
+    "Location": "Highland",
+    "Year": "1904",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Inchkeith",
+    "Latitude": "56.0336",
+    "Longitude": "-3.1361",
+    "Location": "Fife",
+    "Year": "1804",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Isle of May",
+    "Latitude": "56.1856",
+    "Longitude": "-2.5575",
+    "Location": "Fife",
+    "Year": "1816",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Isle of May Low Light",
+    "Latitude": "56.1831",
+    "Longitude": "-2.5519",
+    "Location": "Fife",
+    "Year": "1843",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Old Isle of May",
+    "Latitude": "56.1858",
+    "Longitude": "-2.5567",
+    "Location": "Fife",
+    "Year": "1635",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Killantringan",
+    "Latitude": "54.8617",
+    "Longitude": "-5.1469",
+    "Location": "Dumfries and Galloway",
+    "Year": "1900",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "New Kinnaird Head",
+    "Latitude": "57.6981",
+    "Longitude": "-2.0042",
+    "Location": "Aberdeenshire",
+    "Year": "1991",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Kinnaird Head",
+    "Latitude": "57.6975",
+    "Longitude": "-2.0039",
+    "Location": "Aberdeenshire",
+    "Year": "1787",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Lady Isle",
+    "Latitude": "55.5272",
+    "Longitude": "-4.7339",
+    "Location": "South Ayrshire",
+    "Year": "1903",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Lismore",
+    "Latitude": "56.4556",
+    "Longitude": "-5.6075",
+    "Location": "Argyll and Bute",
+    "Year": "1833",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Little Cumbrae Old",
+    "Latitude": "55.7208",
+    "Longitude": "-4.9581",
+    "Location": "North Ayrshire",
+    "Year": "1757",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Cumbrae",
+    "Latitude": "55.7211",
+    "Longitude": "-4.9669",
+    "Location": "North Ayrshire",
+    "Year": "1793",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Little Cumbrae New",
+    "Latitude": "55.7206",
+    "Longitude": "-4.9672",
+    "Location": "North Ayrshire",
+    "Year": "1997",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Little Ross",
+    "Latitude": "54.7658",
+    "Longitude": "-4.085",
+    "Location": "Dumfries and Galloway",
+    "Year": "1843",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Old Monach",
+    "Latitude": "57.5258",
+    "Longitude": "-7.6961",
+    "Location": "Outer Hebrides",
+    "Year": "1864",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "New Monach Light",
+    "Latitude": "57.5258",
+    "Longitude": "-7.6956",
+    "Location": "Outer Hebrides",
+    "Year": "1997",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Mull of Galloway",
+    "Latitude": "54.635",
+    "Longitude": "-4.8572",
+    "Location": "Dumfries and Galloway",
+    "Year": "1830",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Mull of Kintyre",
+    "Latitude": "55.3106",
+    "Longitude": "-5.8033",
+    "Location": "Argyll and Bute",
+    "Year": "1788",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Neist Point",
+    "Latitude": "57.4233",
+    "Longitude": "-6.7883",
+    "Location": "Highland",
+    "Year": "1909",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Noss Head",
+    "Latitude": "58.4789",
+    "Longitude": "-3.0508",
+    "Location": "Highland",
+    "Year": "1849",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Ornsay",
+    "Latitude": "57.1433",
+    "Longitude": "-5.7811",
+    "Location": "Highland",
+    "Year": "1857",
+    "Country": "Scotland"
+  },
+
+  {
+    "Name": "Oxcars",
+    "Latitude": "56.0225",
+    "Longitude": "-3.2803",
+    "Location": "Fife",
+    "Year": "1886",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Pladda",
+    "Latitude": "55.425",
+    "Longitude": "-5.1183",
+    "Location": "North Ayrshire",
+    "Year": "1790",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Point of Sleat",
+    "Latitude": "57.0183",
+    "Longitude": "-6.0175",
+    "Location": "Highland",
+    "Year": "2003",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Rattray Head",
+    "Latitude": "57.61",
+    "Longitude": "-1.8164",
+    "Location": "Aberdeenshire",
+    "Year": "1895",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Rinns of Islay",
+    "Latitude": "55.6731",
+    "Longitude": "-6.5133",
+    "Location": "Argyll and Bute",
+    "Year": "1825",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Rona",
+    "Latitude": "57.5781",
+    "Longitude": "-5.9592",
+    "Location": "Highland",
+    "Year": "1857",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Rua Reidh",
+    "Latitude": "57.8589",
+    "Longitude": "-5.8119",
+    "Location": "Highland",
+    "Year": "1912",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Rubha nan Gall",
+    "Latitude": "56.6386",
+    "Longitude": "-6.0661",
+    "Location": "Argyll and Bute",
+    "Year": "1857",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Ruvaal",
+    "Latitude": "55.9364",
+    "Longitude": "-6.1236",
+    "Location": "Argyll and Bute",
+    "Year": "1859",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Sanda Island",
+    "Latitude": "55.2747",
+    "Longitude": "-5.5828",
+    "Location": "Argyll and Bute",
+    "Year": "1850",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Scarinish",
+    "Latitude": "56.5003",
+    "Longitude": "-6.8042",
+    "Location": "Argyll and Bute",
+    "Year": "1897",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Scurdie Ness",
+    "Latitude": "56.7017",
+    "Longitude": "-2.4372",
+    "Location": "Angus",
+    "Year": "1870",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Skerryvore",
+    "Latitude": "56.3231",
+    "Longitude": "-7.1161",
+    "Location": "Argyll and Bute",
+    "Year": "1844",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Southerness",
+    "Latitude": "54.8728",
+    "Longitude": "-3.5953",
+    "Location": "Dumfries and Galloway",
+    "Year": "1749",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "St. Abbs",
+    "Latitude": "55.9161",
+    "Longitude": "-2.1389",
+    "Location": "Scottish Borders",
+    "Year": "1862",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Stoer Head",
+    "Latitude": "58.24",
+    "Longitude": "-5.4025",
+    "Location": "Highland",
+    "Year": "1870",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Strathy Point",
+    "Latitude": "58.5986",
+    "Longitude": "-4.0186",
+    "Location": "Highland",
+    "Year": "1958",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Stroma",
+    "Latitude": "58.6958",
+    "Longitude": "-3.1167",
+    "Location": "Highland",
+    "Year": "1890",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Tarbat Ness",
+    "Latitude": "57.865",
+    "Longitude": "-3.7767",
+    "Location": "Highland",
+    "Year": "1830",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Tiumpan Head",
+    "Latitude": "58.2611",
+    "Longitude": "-6.1389",
+    "Location": "Outer Hebrides",
+    "Year": "1900",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Todhead",
+    "Latitude": "56.8839",
+    "Longitude": "-2.2153",
+    "Location": "Aberdeenshire",
+    "Year": "1897",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Toward Point",
+    "Latitude": "55.8622",
+    "Longitude": "-4.9797",
+    "Location": "Argyll and Bute",
+    "Year": "1812",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Turnberry",
+    "Latitude": "55.3258",
+    "Longitude": "-4.8447",
+    "Location": "South Ayrshire",
+    "Year": "1873",
+    "Country": "1873"
+  },
+  {
+    "Name": "Ushenish",
+    "Latitude": "57.2983",
+    "Longitude": "-7.1931",
+    "Location": "Outer Hebrides",
+    "Year": "1857",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Vaternish",
+    "Latitude": "57.6081",
+    "Longitude": "-6.6342",
+    "Location": "Highland",
+    "Year": "1980",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Vaternish Point",
+    "Latitude": "57.6081",
+    "Longitude": "-6.6342",
+    "Location": "Highland",
+    "Year": "1924",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Weavers Point",
+    "Latitude": "57.6083",
+    "Longitude": "-7.1",
+    "Location": "Outer Hebrides",
+    "Year": "1980",
+    "Country": "Scotland"
+  },
+  {
+    "Name": "Anvil Point",
+    "Latitude": "50.5919",
+    "Longitude": "-1.96",
+    "Location": "Dorset",
+    "Year": "1881",
+    "Country": "England"
+  },
+  {
+    "Name": "Bamburgh",
+    "Latitude": "55.6167",
+    "Longitude": "-1.7242",
+    "Location": "Bamburgh",
+    "Year": "1910",
+    "Country": "England"
+  },
+  {
+    "Name": "Beachy Head",
+    "Latitude": "50.7339",
+    "Longitude": "0.2414",
+    "Location": "East Sussex",
+    "Year": "1902",
+    "Country": "England"
+  },
+  {
+    "Name": "Berkeley Pill Front",
+    "Latitude": "51.6997",
+    "Longitude": "-2.49",
+    "Location": "Severn Estuary",
+    "Year": "1937",
+    "Country": "England"
+  },
+  {
+    "Name": "Berkeley Pill Rear light",
+    "Latitude": "51.6983",
+    "Longitude": "-2.4903",
+    "Location": "Severn Estuary",
+    "Year": "1937",
+    "Country": "England"
+  },
+  {
+    "Name": "Berry Head",
+    "Latitude": "50.3994",
+    "Longitude": "-3.4833",
+    "Location": "Devon",
+    "Year": "1906",
+    "Country": "England"
+  },
+  {
+    "Name": "Berwick",
+    "Latitude": "55.7647",
+    "Longitude": "-1.9853",
+    "Location": "Northumberland",
+    "Year": "1826",
+    "Country": "England"
+  },
+  {
+    "Name": "Bishop Rock",
+    "Latitude": "49.8717",
+    "Longitude": "-6.445",
+    "Location": "Isles of Scilly",
+    "Year": "1858",
+    "Country": "England"
+  },
+  {
+    "Name": "Bull Point",
+    "Latitude": "51.1992",
+    "Longitude": "-4.2011",
+    "Location": "Devon",
+    "Year": "1879",
+    "Country": "England"
+  },
+  {
+    "Name": "Burnham-on-Sea",
+    "Latitude": "51.2483",
+    "Longitude": "-3.0058",
+    "Location": "Somerset",
+    "Year": "1832",
+    "Country": "England"
+  },
+  {
+    "Name": "Chapel Rock",
+    "Latitude": "51.6072",
+    "Longitude": "-2.6533",
+    "Location": "Gloucestershire",
+    "Year": "1907",
+    "Country": "England"
+  },
+  {
+    "Name": "Coquet Island",
+    "Latitude": "55.3339",
+    "Longitude": "-1.5397",
+    "Location": "Northumberland",
+    "Year": "1841",
+    "Country": "England"
+  },
+  {
+    "Name": "Cromer",
+    "Latitude": "52.9247",
+    "Longitude": "1.3167",
+    "Location": "Norfolk",
+    "Year": "1833",
+    "Country": "England"
+  },
+  {
+    "Name": "Crow Point",
+    "Latitude": "51.0661",
+    "Longitude": "-4.1897",
+    "Location": "Braunton Burrows",
+    "Year": "1954",
+    "Country": "England"
+  },
+  {
+    "Name": "Dungeness",
+    "Latitude": "50.9136",
+    "Longitude": "0.9758",
+    "Location": "Kent",
+    "Year": "1961",
+    "Country": "England"
+  },
+  {
+    "Name": "Eddystone",
+    "Latitude": "50.18",
+    "Longitude": "-4.265",
+    "Location": "Eddystone Rocks",
+    "Year": "1882",
+    "Country": "England"
+  },
+  {
+    "Name": "Farne (Farne Islands)",
+    "Latitude": "55.6153",
+    "Longitude": "-1.6558",
+    "Location": "Northumberland",
+    "Year": "1811",
+    "Country": "England"
+  },
+  {
+    "Name": "Flamborough Head",
+    "Latitude": "54.1164",
+    "Longitude": "-0.0825",
+    "Location": "East Riding",
+    "Year": "1806",
+    "Country": "England"
+  },
+  {
+    "Name": "Pharos",
+    "Latitude": "53.9264",
+    "Longitude": "-3.0075",
+    "Location": "Lancashire",
+    "Year": "1840",
+    "Country": "England"
+  },
+  {
+    "Name": "Folkestone",
+    "Latitude": "51.0761",
+    "Longitude": "1.1947",
+    "Location": "Kent",
+    "Year": "1860",
+    "Country": "England"
+  },
+  {
+    "Name": "Godrevy",
+    "Latitude": "50.2425",
+    "Longitude": "-5.4003",
+    "Location": "Cornwall",
+    "Year": "1859",
+    "Country": "England"
+  },
+  {
+    "Name": "Gorleston South Pier",
+    "Latitude": "52.5722",
+    "Longitude": "1.7381",
+    "Location": "Norfolk",
+    "Year": "1955",
+    "Country": "England"
+  },
+  {
+    "Name": "Guile Point East",
+    "Latitude": "55.6583",
+    "Longitude": "-1.7931",
+    "Location": "Lindisfarne",
+    "Year": "1859",
+    "Country": "England"
+  },
+  {
+    "Name": "Happisburgh",
+    "Latitude": "52.8194",
+    "Longitude": "1.5386",
+    "Location": "Norfolk",
+    "Year": "1791",
+    "Country": "England"
+  },
+  {
+    "Name": "Hartland Point",
+    "Latitude": "51.0222",
+    "Longitude": "-4.5256",
+    "Location": "Devon",
+    "Year": "1874",
+    "Country": "England"
+  },
+  {
+    "Name": "Heugh",
+    "Latitude": "54.6964",
+    "Longitude": "-1.1761",
+    "Location": "Durham",
+    "Year": "1927",
+    "Country": "England"
+  },
+  {
+    "Name": "Herd Groyne Light",
+    "Latitude": "55.0081",
+    "Longitude": "-1.4242",
+    "Location": "South Shields",
+    "Year": "1882",
+    "Country": "England"
+  },
+  {
+    "Name": "Heugh Hill (Lindisfarne)",
+    "Latitude": "55.6683",
+    "Longitude": "-1.7997",
+    "Location": "Northumberland",
+    "Year": "1826",
+    "Country": "England"
+  },
+  {
+    "Name": "Hilbre Island",
+    "Latitude": "53.3833",
+    "Longitude": "-3.2286",
+    "Location": "Cheshire",
+    "Year": "1927",
+    "Country": "England"
+  },
+  {
+    "Name": "Hurst Point",
+    "Latitude": "50.7081",
+    "Longitude": "-1.5503",
+    "Location": "Hampshire",
+    "Year": "1867",
+    "Country": "England"
+  },
+  {
+    "Name": "Ilfracombe",
+    "Latitude": "51.2111",
+    "Longitude": "-4.1131",
+    "Location": "Devon",
+    "Year": "1819",
+    "Country": "England"
+  },
+  {
+    "Name": "Instow Front",
+    "Latitude": "51.0603",
+    "Longitude": "-4.1778",
+    "Location": "Instow",
+    "Year": "1820",
+    "Country": "England"
+  },
+  {
+    "Name": "Instow Rear",
+    "Latitude": "51.0586",
+    "Longitude": "-4.1725",
+    "Location": "Devon",
+    "Year": "1820",
+    "Country": "England"
+  },
+  {
+    "Name": "Killingholme High",
+    "Latitude": "53.6472",
+    "Longitude": "-0.2189",
+    "Location": "South Killingholme",
+    "Year": "1876",
+    "Country": "England"
+  },
+  {
+    "Name": "Killingholme South Low",
+    "Latitude": "53.6467",
+    "Longitude": "-0.2161",
+    "Location": "South Killingholme",
+    "Year": "1836",
+    "Country": "England"
+  },
+  {
+    "Name": "Lizard Point",
+    "Latitude": "49.9603",
+    "Longitude": "-5.2019",
+    "Location": "Cornwall",
+    "Year": "1751",
+    "Country": "England"
+  },
+  {
+    "Name": "Longships",
+    "Latitude": "50.0669",
+    "Longitude": "-5.7467",
+    "Location": "Cornwall",
+    "Year": "1875",
+    "Country": "England"
+  },
+  {
+    "Name": "Longstone (Farne Islands)",
+    "Latitude": "55.6439",
+    "Longitude": "-1.6108",
+    "Location": "Nothumberland",
+    "Year": "1826",
+    "Country": "England"
+  },
+  {
+    "Name": "Lowestoft",
+    "Latitude": "52.4867",
+    "Longitude": "11.7583",
+    "Location": "Suffolk",
+    "Year": "1874",
+    "Country": "England"
+  },
+  {
+    "Name": "Lundy North",
+    "Latitude": "51.2017",
+    "Longitude": "-4.6772",
+    "Location": "Lundy Island",
+    "Year": "1897",
+    "Country": "1897"
+  },
+  {
+    "Name": "Lundy South",
+    "Latitude": "51.1619",
+    "Longitude": "-4.6558",
+    "Location": "Lundy Island",
+    "Year": "1897",
+    "Country": "England"
+  },
+  {
+    "Name": "Lyde Rock",
+    "Latitude": "51.6147",
+    "Longitude": "-2.6444",
+    "Location": "Severn Estuary",
+    "Year": "2008",
+    "Country": "England"
+  },
+  {
+    "Name": "Lynmouth Foreland",
+    "Latitude": "51.2453",
+    "Longitude": "-3.7867",
+    "Location": "Devon",
+    "Year": "1900",
+    "Country": "England"
+  },
+  {
+    "Name": "Maryport",
+    "Latitude": "54.7178",
+    "Longitude": "-3.5106",
+    "Location": "Cumbria",
+    "Year": "1996",
+    "Country": "England"
+  },
+  {
+    "Name": "Nab Tower",
+    "Latitude": "50.6675",
+    "Longitude": "-0.9511",
+    "Location": "West Sussex",
+    "Year": "1918",
+    "Country": "England"
+  },
+  {
+    "Name": "Needles",
+    "Latitude": "50.6622",
+    "Longitude": "-1.5917",
+    "Location": "Isle of Wight",
+    "Year": "1859",
+    "Country": "England"
+  },
+  {
+    "Name": "North Foreland",
+    "Latitude": "51.375",
+    "Longitude": "1.445",
+    "Location": "Kent",
+    "Year": "1691",
+    "Country": "England"
+  },
+  {
+    "Name": "Pendeen",
+    "Latitude": "50.165",
+    "Longitude": "-5.6717",
+    "Location": "Cornwall",
+    "Year": "1900",
+    "Country": "England"
+  },
+  {
+    "Name": "Peninnis",
+    "Latitude": "49.9047",
+    "Longitude": "-6.3036",
+    "Location": "Isles of Scilly",
+    "Year": "1911",
+    "Country": "England"
+  },
+  {
+    "Name": "Plover Scar",
+    "Latitude": "53.9814",
+    "Longitude": "-2.8825",
+    "Location": "Lancashire",
+    "Year": "1847",
+    "Country": "England"
+  },
+  {
+    "Name": "Plymouth Breakwater",
+    "Latitude": "50.3344",
+    "Longitude": "-4.1589",
+    "Location": "Devon",
+    "Year": "1844",
+    "Country": "England"
+  },
+  {
+    "Name": "Portishead Point",
+    "Latitude": "51.4939",
+    "Longitude": "-2.7719",
+    "Location": "Somerset",
+    "Year": "1931",
+    "Country": "England"
+  },
+  {
+    "Name": "Portland Bill",
+    "Latitude": "50.5142",
+    "Longitude": "-2.4564",
+    "Location": "Dorset",
+    "Year": "1903",
+    "Country": "England"
+  },
+  {
+    "Name": "Portland Breakwater",
+    "Latitude": "50.5858",
+    "Longitude": "-2.4178",
+    "Location": "Dorset",
+    "Year": "1905",
+    "Country": "England"
+  },
+  {
+    "Name": "Rampside",
+    "Latitude": "54.0864",
+    "Longitude": "-3.1611",
+    "Location": "Cumbria",
+    "Year": "1875",
+    "Country": "England"
+  },
+  {
+    "Name": "Ramsgate West Pier",
+    "Latitude": "51.3278",
+    "Longitude":"1.4214",
+    "Location": "Kent",
+    "Year": "1842",
+    "Country": "England"
+  },
+  {
+    "Name": "Roker Pier",
+    "Latitude": "54.9214",
+    "Longitude": "-1.3525",
+    "Location": "Tyne & Wear",
+    "Year": "1903",
+    "Country": "England"
+  },
+  {
+    "Name": "Round Island",
+    "Latitude": "49.9789",
+    "Longitude": "-6.3231",
+    "Location": "Isles of Scilly",
+    "Year": "1887",
+    "Country": "England"
+  },
+  {
+    "Name": "St. Anthony",
+    "Latitude": "50.1411",
+    "Longitude": "-5.0158",
+    "Location": "Cornwall",
+    "Year": "1835",
+    "Country": "England"
+  },
+  {
+    "Name": "St Bees Head",
+    "Latitude": "54.5136",
+    "Longitude": "-3.6364",
+    "Location": "Cumbria",
+    "Year": "1822",
+    "Country": "England"
+  },
+  {
+    "Name": "St. Catherine's",
+    "Latitude": "50.5758",
+    "Longitude": "-1.2978",
+    "Location": "Isle of Wight",
+    "Year": "1838",
+    "Country": "England"
+  },
+  {
+    "Name": "Scarborough",
+    "Latitude": "54.2819",
+    "Longitude": "-0.39",
+    "Location": "North Yorkshire",
+    "Year": "1931",
+    "Country": "England"
+  },
+  {
+    "Name": "Shoreham",
+    "Latitude": "50.8308",
+    "Longitude": "-0.2483",
+    "Location": "West Sussex",
+    "Year": "1846",
+    "Country": "England"
+  },
+  {
+    "Name": "South Gare",
+    "Latitude": "54.6475",
+    "Longitude": "-1.1375",
+    "Location": "North Yorkshire",
+    "Year": "1884",
+    "Country": "England"
+  },
+  {
+    "Name": "Southwold",
+    "Latitude": "52.3272",
+    "Longitude": "1.6814",
+    "Location": "Suffolk",
+    "Year": "1887",
+    "Country": "England"
+  },
+  {
+    "Name": "Start Point",
+    "Latitude": "50.2225",
+    "Longitude": "-3.6422",
+    "Location": "Devon",
+    "Year": "1836",
+    "Country": "England"
+  },
+  {
+    "Name": "Tater Du",
+    "Latitude": "50.0519",
+    "Longitude": "-5.5767",
+    "Location": "Cornwall",
+    "Year": "1965",
+    "Country": "England"
+  },
+  {
+    "Name": "Teignmouth",
+    "Latitude": "50.5425",
+    "Longitude": "-3.4969",
+    "Location": "Devon",
+    "Year": "1845",
+    "Country": "England"
+  },
+  {
+    "Name": "Thorngumbald Clough High",
+    "Latitude": "53.7081",
+    "Longitude": "-0.2256",
+    "Location": "East Riding",
+    "Year": "1870",
+    "Country": "England"
+  },
+  {
+    "Name": "Thorngumbald Clough Low",
+    "Latitude": "53.7089",
+    "Longitude": "-0.2269",
+    "Location": "East Riding",
+    "Year": "1870",
+    "Country": "England"
+  },
+  {
+    "Name": "Trevose Head",
+    "Latitude": "50.5492",
+    "Longitude": "-5.0353",
+    "Location": "Cornwall",
+    "Year": "1847",
+    "Country": "England"
+  },
+  {
+    "Name": "Tyne North Pier",
+    "Latitude": "55.0144",
+    "Longitude": "-1.4031",
+    "Location": "Tyne & Wear",
+    "Year": "1903",
+    "Country": "England"
+  },
+  {
+    "Name": "Tyne South Pier",
+    "Latitude": "55.0111",
+    "Longitude": "-1.4011",
+    "Location": "Tyne & Wear",
+    "Year": "1895",
+    "Country": "England"
+  },
+  {
+    "Name": "Walney Island",
+    "Latitude": "54.0486",
+    "Longitude": "-3.1772",
+    "Location": "Cumbria",
+    "Year": "1804",
+    "Country": "England"
+  },
+  {
+    "Name": "Watchet Harbour",
+    "Latitude": "51.1831",
+    "Longitude": "-3.3289",
+    "Location": "Somerset",
+    "Year": "1862",
+    "Country": "England"
+  },
+  {
+    "Name": "Whitby",
+    "Latitude": "54.4778",
+    "Longitude": "-0.5683",
+    "Location": "North Yorkshire",
+    "Year": "1858",
+    "Country": "England"
+  },
+  {
+    "Name": "Whitby East Pier beacon",
+    "Latitude": "54.4942",
+    "Longitude": "-0.6122",
+    "Location": "Whitby",
+    "Year": "1914",
+    "Country": "England"
+  },
+  {
+    "Name": "Whitby West Pier beacon",
+    "Latitude": "54.4942",
+    "Longitude": "-0.6133",
+    "Location": "Whitby",
+    "Year": "1914",
+    "Country": "England"
+  },
+  {
+    "Name": "Whitby East Pier",
+    "Latitude": "54.4928",
+    "Longitude": "-0.6119",
+    "Location": "Whitby",
+    "Year": "1855",
+    "Country": "England"
+  },
+  {
+    "Name": "Whitby West Pier",
+    "Latitude": "54.4928",
+    "Longitude": "-0.6128",
+    "Location": "North Yorkshire",
+    "Year": "1831",
+    "Country": "England"
+  },
+  {
+    "Name": "West Pier",
+    "Latitude": "54.5528",
+    "Longitude": "-3.5986",
+    "Location": "Cumbria",
+    "Year": "1839",
+    "Country": "England"
+  },
+  {
+    "Name": "Whitgift",
+    "Latitude": "53.6989",
+    "Longitude": "-0.7575",
+    "Location": "East Riding",
+    "Year": "",
+    "Country": "England"
+  },
+  {
+    "Name": "Wolf Rock",
+    "Latitude": "49.9453",
+    "Longitude": "-5.8083",
+    "Location": "Wolf Rock",
+    "Year": "1869",
+    "Country": "England"
+  },
+  {
+    "Name": "Trwyn Du",
+    "Latitude": "53.3128",
+    "Longitude": "-4.0406",
+    "Location": "Anglesey",
+    "Year": "1838",
+    "Country": "Wales"
+  },
+  {
+    "Name": "Point Lynas",
+    "Latitude": "53.4161",
+    "Longitude": "-4.2892",
+    "Location": "Anglesey",
+    "Year": "1835",
+    "Country": "Wales"
+  },
+  {
+    "Name": "Skerries",
+    "Latitude": "53.4211",
+    "Longitude": "-4.6081",
+    "Location": "Anglesey",
+    "Year": "1717",
+    "Country": "Wales"
+  },
+  {
+    "Name": "Holyhead",
+    "Latitude": "53.3308",
+    "Longitude": "-4.6192",
+    "Location": "Anglesey",
+    "Year": "1873",
+    "Country": "Wales"
+  },
+  {
+    "Name": "South Stack",
+    "Latitude": "53.3067",
+    "Longitude": "-4.6994",
+    "Location": "Anglesey",
+    "Year": "1809",
+    "Country": "Wales"
+  },
+  {
+    "Name": "Twr Bach Llanddwyn Island",
+    "Latitude": "53.1353",
+    "Longitude": "-4.4156",
+    "Location": "Anglesey",
+    "Year": "1800",
+    "Country": "Wales"
+  },
+  {
+    "Name": "Bardsey",
+    "Latitude": "52.75",
+    "Longitude": "-4.8",
+    "Location": "Gwynedd",
+    "Year": "1821",
+    "Country": "Wales"
+  },
+  {
+    "Name": "St Tudwals",
+    "Latitude": "52.7986",
+    "Longitude": "-4.4714",
+    "Location": "Gwynedd",
+    "Year": "1877",
+    "Country": "Wales"
+  },
+  {
+    "Name": "Strumble Head",
+    "Latitude": "52.0297",
+    "Longitude": "-5.0739",
+    "Location": "Pembrokeshire",
+    "Year": "1908",
+    "Country": "Wales"
+  },
+  {
+    "Name": "South Bishop",
+    "Latitude": "51.8528",
+    "Longitude": "-5.4119",
+    "Location": "Pembrokeshire",
+    "Year": "1839",
+    "Country": "Wales"
+  },
+  {
+    "Name": "Smalls",
+    "Latitude": "51.7211",
+    "Longitude": "-5.6697",
+    "Location": "Pembrokeshire",
+    "Year": "1861",
+    "Country": "Wales"
+  },
+  {
+    "Name": "Skokholm",
+    "Latitude": "51.6939",
+    "Longitude": "-5.2869",
+    "Location": "Pembrokeshire",
+    "Year": "1916",
+    "Country": "Wales"
+  },
+  {
+    "Name": "St. Ann's Head",
+    "Latitude": "51.6811",
+    "Longitude": "-5.1736",
+    "Location": "Pembrokeshire",
+    "Year": "1841",
+    "Country": "Wales"
+  },
+  {
+    "Name": "Great Castle Head Light",
+    "Latitude": "51.7114",
+    "Longitude": "-5.1178",
+    "Location": "St Ishmael's",
+    "Year": "1870",
+    "Country": "Wales"
+  },
+  {
+    "Name": "Little Castle Head Light",
+    "Latitude": "51.7172",
+    "Longitude": "-5.1097",
+    "Location": "Pembrokeshire",
+    "Year": "",
+    "Country": "Wales"
+  },
+  {
+    "Name": "Watwick Point Beacon",
+    "Latitude": "51.6961",
+    "Longitude": "-5.1539",
+    "Location": "Pembrokeshire",
+    "Year": "1970",
+    "Country": "Wales"
+  },
+  {
+    "Name": "West Blockhouse Point Beacons",
+    "Latitude": "51.6883",
+    "Longitude": "-5.1592",
+    "Location": "Pembrokeshire",
+    "Year": "1957",
+    "Country": "Wales"
+  },
+  {
+    "Name": "Caldey",
+    "Latitude": "51.6317",
+    "Longitude": "-4.6842",
+    "Location": "Pembrokeshire",
+    "Year": "1829",
+    "Country": "Wales"
+  },
+  {
+    "Name": "Saundersfoot",
+    "Latitude": "51.71",
+    "Longitude": "-4.695",
+    "Location": "Pembrokeshire",
+    "Year": "1848",
+    "Country": "Wales"
+  },
+  {
+    "Name": "Burry Port",
+    "Latitude": "51.6775",
+    "Longitude": "-4.2511",
+    "Location": "Carmarthenshire",
+    "Year": "1842",
+    "Country": "Wales"
+  },
+  {
+    "Name": "Mumbles",
+    "Latitude": "51.5667",
+    "Longitude": "-3.9711",
+    "Location": "Swansea",
+    "Year": "1794",
+    "Country": "Wales"
+  },
+  {
+    "Name": "Porthcawl",
+    "Latitude": "51.4731",
+    "Longitude": "-3.6997",
+    "Location": "Bridgend",
+    "Year": "1860",
+    "Country": "Wales"
+  },
+  {
+    "Name": "Nash Point",
+    "Latitude": "51.4008",
+    "Longitude": "-3.5522",
+    "Location": "Vale of Glamorgan",
+    "Year": "1831",
+    "Country": "Wales"
+  },
+  {
+    "Name": "Flat Holm",
+    "Latitude": "51.375",
+    "Longitude": "-3.1169",
+    "Location": "Severn Estuary",
+    "Year": "1737",
+    "Country": "Wales"
+  },
+  {
+    "Name": "Barry",
+    "Latitude": "51.3911",
+    "Longitude": "-3.2586",
+    "Location": "Vale of Glamorgan",
+    "Year": "1890",
+    "Country": "Wales"
+  },
+  {
+    "Name": "Monkstone",
+    "Latitude": "51.4147",
+    "Longitude": "-3.1",
+    "Location": "Vale of Glamorgan",
+    "Year": "1839",
+    "Country": "Wales"
+  },
+  {
+    "Name": "East Usk",
+    "Latitude": "51.54",
+    "Longitude": "-2.9669",
+    "Location": "Newport",
+    "Year": "1893",
+    "Country": "Wales"
+  }
+]
