@@ -58,7 +58,10 @@ table fact_steps
 		displayFolder: Calculations
 		lineageTag: 9c9b0d66-62df-49dd-a8ce-fa84e62fc0d7
 
-	measure Count = COUNTROWS('fact_steps')
+	measure Count =
+			COUNTROWS('fact_steps')
+			
+			-- Gavin Annalect Comment test
 		formatString: 0
 		displayFolder: Calculations
 		lineageTag: f1046549-e25c-4bc7-bbca-54ee2c0b3ce5
