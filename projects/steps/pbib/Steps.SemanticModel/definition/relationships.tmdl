@@ -1,0 +1,13 @@
+relationship 7eafecf3-53ca-44c2-81e3-7c718a7ca755
+	joinOnDateBehavior: datePartOnly
+	fromColumn: fact_steps.Date
+	toColumn: LocalDateTable_13a3b1e8-29fc-4850-8b1f-66897e9cce26.Date
+
+relationship 50d1cb43-9f19-5225-adb4-fc0426ff7158
+	fromColumn: fact_steps.date_key
+	toColumn: dim_date.date_key
+
+relationship 5bee4a23-9453-3170-6b68-41cf5485ff79
+	fromColumn: fact_steps.'Daily Target'
+	toColumn: Yes/No.Y/N
+

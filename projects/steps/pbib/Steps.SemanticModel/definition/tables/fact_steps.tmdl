@@ -1,0 +1,161 @@
+table fact_steps
+	lineageTag: cf570a0e-3638-4e07-acac-98bf9a030143
+
+	measure 'Cumulative Goal' =
+			IF(
+			    ISBLANK(SUM('fact_steps'[Daily_Total])),
+			    BLANK(),
+			    CALCULATE(
+			        SUM('fact_steps'[Daily Goal]),
+			        FILTER(
+			            ALL('fact_steps'),
+			            'fact_steps'[Date] <= MAX('fact_steps'[Date]))))
+		formatString: #,0
+		displayFolder: Calculations
+		lineageTag: ecdfc145-6c82-4516-960d-4dce44179f03
+
+		annotation PBI_FormatHint = {"isDecimal":true}
+
+	measure 'Cumulative Steps' =
+			IF(
+			    ISBLANK(SUM('fact_steps'[Daily_Total])),
+			    BLANK(),
+			    CALCULATE(
+			        SUM('fact_steps'[Daily_Total]),
+			        FILTER(
+			            ALL('fact_steps'),
+			            'fact_steps'[Date] <= MAX('fact_steps'[Date]))))
+		formatString: #,0
+		displayFolder: Calculations
+		lineageTag: 7084b007-b7b4-47d1-8abe-4a76df1b55ce
+
+	measure +/- = [Cumulative Steps]-[Cumulative Goal]
+		formatString: #,0
+		displayFolder: Calculations
+		lineageTag: ff39b79e-a51e-49f7-9630-8a8ab5c522d4
+
+	measure 'Daily Average' = SUM('fact_steps'[Daily_Total])/COUNT('fact_steps'[Daily_Total])
+		formatString: #,0
+		displayFolder: Calculations
+		lineageTag: a5d46e54-6627-46e8-bd7a-1d4050f1ada5
+
+	measure 'Estimated Finish' = [Daily Average]*365
+		formatString: #,0
+		displayFolder: Calculations
+		lineageTag: e3df7485-b093-452b-ae33-f3798ec2a636
+
+		annotation PBI_FormatHint = {"isDecimal":true}
+
+	measure 'Week Ending' = MAX('fact_steps'[Date])
+		formatString: dd mmm
+		displayFolder: Calculations
+		lineageTag: 896c8b09-59fa-4876-8109-45b2d8e65287
+
+		annotation PBI_FormatHint = {"isCustom":true}
+
+	measure 'Best Day' = MAX('fact_steps'[Daily_Total])
+		formatString: #,0
+		displayFolder: Calculations
+		lineageTag: 9c9b0d66-62df-49dd-a8ce-fa84e62fc0d7
+
+	measure Count = COUNTROWS('fact_steps')
+		formatString: 0
+		displayFolder: Calculations
+		lineageTag: f1046549-e25c-4bc7-bbca-54ee2c0b3ce5
+
+	column 'Daily Goal' = 13700
+		formatString: 0
+		displayFolder: Calculations
+		lineageTag: a751f1da-4a8c-4321-a7e8-4409b1175c2d
+		summarizeBy: sum
+
+		annotation SummarizationSetBy = Automatic
+
+	column '% of Total' = 'fact_steps'[Daily_Total]
+		formatString: 0
+		displayFolder: Calculations
+		lineageTag: 31c4b124-b2e5-4508-8065-911e5f7e9f97
+		summarizeBy: sum
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Daily Target' = IF('fact_steps'[Daily_Total]>13700,"Yes","No")
+		displayFolder: Calculations
+		lineageTag: 87494db5-eea0-425d-aa5a-c229e6e52e8c
+		summarizeBy: none
+
+		annotation SummarizationSetBy = Automatic
+
+	column Date
+		dataType: dateTime
+		formatString: Long Date
+		displayFolder: Attributes
+		lineageTag: f4ef1e00-e392-404c-9eda-48e852e1f8f4
+		summarizeBy: none
+		sourceColumn: Date
+
+		variation Variation
+			isDefault
+			relationship: 7eafecf3-53ca-44c2-81e3-7c718a7ca755
+			defaultHierarchy: LocalDateTable_13a3b1e8-29fc-4850-8b1f-66897e9cce26.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column Daily_Total
+		dataType: int64
+		formatString: #,0
+		displayFolder: Attributes
+		lineageTag: cf6a5145-2c07-49a3-90d9-e466162685bd
+		summarizeBy: sum
+		sourceColumn: Daily_Total
+
+		annotation SummarizationSetBy = Automatic
+
+	column step_id
+		dataType: int64
+		formatString: 0
+		displayFolder: Attributes
+		lineageTag: 4d536867-1a39-4739-9a3c-d7a998610890
+		summarizeBy: sum
+		sourceColumn: step_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column date_key
+		dataType: int64
+		formatString: 0
+		displayFolder: Attributes
+		lineageTag: 6e83fdf3-20ac-41b8-8520-d5540542bab5
+		summarizeBy: none
+		sourceColumn: date_key
+
+		annotation SummarizationSetBy = Automatic
+
+	column Index
+		dataType: int64
+		formatString: 0
+		displayFolder: Extended
+		lineageTag: 950fae8e-3558-42e7-99c8-4321bf8a92b3
+		summarizeBy: sum
+		sourceColumn: Index
+
+		annotation SummarizationSetBy = Automatic
+
+	partition fact_steps = m
+		mode: import
+		source =
+				let
+				    Source = Sql.Databases("between-data-art.database.windows.net"),
+				    #"Between-Data-Art-db" = Source{[Name="Between-Data-Art-db"]}[Data],
+				    dbo_fact_steps = #"Between-Data-Art-db"{[Schema="dbo",Item="fact_steps"]}[Data],
+				    #"Sorted Rows" = Table.Sort(dbo_fact_steps,{{"Daily_Total", Order.Descending}}),
+				    #"Added Index" = Table.AddIndexColumn(#"Sorted Rows", "Index", 1, 1, Int64.Type)
+				in
+				    #"Added Index"
+
+	annotation PBI_ResultType = Table
+
+	annotation PBI_NavigationStepName = Navigation
+

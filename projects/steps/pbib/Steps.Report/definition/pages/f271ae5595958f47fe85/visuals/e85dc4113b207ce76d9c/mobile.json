@@ -1,0 +1,42 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainerMobileState/2.2.0/schema.json",
+  "position": {
+    "x": 0,
+    "y": 4,
+    "z": 1,
+    "height": 209,
+    "width": 324
+  },
+  "objects": {
+    "columnWidth": [
+      {
+        "properties": {
+          "value": {
+            "expr": {
+              "Literal": {
+                "Value": "72D"
+              }
+            }
+          }
+        },
+        "selector": {
+          "metadata": "steps (2).Daily Average 2"
+        }
+      },
+      {
+        "properties": {
+          "value": {
+            "expr": {
+              "Literal": {
+                "Value": "76D"
+              }
+            }
+          }
+        },
+        "selector": {
+          "metadata": "steps (2).DayName"
+        }
+      }
+    ]
+  }
+}

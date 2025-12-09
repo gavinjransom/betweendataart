@@ -1,0 +1,8 @@
+Cumulative Steps = IF(
+    ISBLANK(SUM('Steps'[Daily_Total])),
+    BLANK(),
+    CALCULATE(
+        SUM('Steps'[Daily_Total]),
+        FILTER(
+            ALL('Steps'),
+            'Steps'[Date] <= MAX('Steps'[Date]))))

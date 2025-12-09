@@ -1,0 +1,27 @@
+model Model
+	culture: en-GB
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: en-GB
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+/// Errors in queries that were loaded on 12/02/2024 17:25:14.
+queryGroup 'Query Errors - 12/02/2024 17:25:14'
+
+	annotation PBI_QueryGroupOrder = 0
+
+annotation PBI_QueryOrder = ["Yes/No","fact_steps","dim_date"]
+
+annotation __PBI_TimeIntelligenceEnabled = 1
+
+annotation PBI_ProTooling = ["DevMode"]
+
+ref table Yes/No
+ref table fact_steps
+ref table dim_date
+ref table DateTableTemplate_80987045-a1f0-4783-9f1f-4440f8586301
+ref table LocalDateTable_13a3b1e8-29fc-4850-8b1f-66897e9cce26
+
+ref cultureInfo en-GB
+

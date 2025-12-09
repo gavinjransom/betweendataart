@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Steps"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "e9128656-e149-47a5-bfee-1cc63e28aef7"
+  }
+}
