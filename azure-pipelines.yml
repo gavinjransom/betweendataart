@@ -6,5 +6,5 @@ steps:
     contents: |
       **/*
       !.git/**/*
-    targetFolder: '/web/vhosts/betweendataart.com/htdocs'
+    targetFolder: 'htdocs'
     overwrite: true
