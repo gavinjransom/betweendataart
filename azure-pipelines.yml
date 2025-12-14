@@ -1,19 +1,7 @@
-trigger:
-- main
-
-pool:
-  vmImage: ubuntu-latest
-
-variables:
-- group: gandi-sftp
-
 steps:
 - task: CopyFilesOverSSH@0
   inputs:
-    host: $(SFTP_HOST)
-    port: $(SFTP_PORT)
-    username: $(SFTP_USER)
-    password: $(SFTP_TOKEN)
+    sshEndpoint: 'gandi-sftp'
     sourceFolder: $(Build.SourcesDirectory)
     contents: |
       **/*
