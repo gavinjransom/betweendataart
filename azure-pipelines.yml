@@ -2,9 +2,9 @@ steps:
 - task: CopyFilesOverSSH@0
   inputs:
     sshEndpoint: 'gandi-sftp'
-    sourceFolder: $(Build.SourcesDirectory)
+    sourceFolder: '$(Build.SourcesDirectory)'
     contents: |
       **/*
       !.git/**/*
-    targetFolder: 'htdocs'
+    targetFolder: '.'
     overwrite: true
