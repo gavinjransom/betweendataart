@@ -220,8 +220,13 @@ margin-left: 10%;
     color: #fff;
     }
 
-    .nav-link.active {
-        text-shadow: 0 0 1px currentColor;
-        font-weight: 400;
-        }
+.nav-link.active {
+text-shadow: 0 0 0.5px currentColor;
+font-weight: 400;
+color: #848e6f;
+}
+
+.nav-link.active:hover {
+color: #fff
+}
       
