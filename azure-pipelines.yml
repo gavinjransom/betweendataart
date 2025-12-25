@@ -1,10 +1,28 @@
+trigger:
+- main
+
+pool:
+  vmImage: ubuntu-latest
+
+variables:
+- group: gandi-sftp
+
 steps:
-- task: CopyFilesOverSSH@0
+- task: NodeTool@0
   inputs:
-    sshEndpoint: 'gandi-sftp'
-    sourceFolder: '$(Build.SourcesDirectory)'
-    contents: |
-      **/*
-      !.git/**/*
-    targetFolder: '.'
-    overwrite: true
+    versionSpec: '18.x'
+
+- script: |
+    npm install
+    npm run build
+  displayName: Build site
+
+- script: |
+    sudo apt-get install -y lftp
+    lftp -u $(SFTP_USER),$(SFTP_TOKEN) sftp://$(SFTP_HOST) <<EOF
+    set sftp:auto-confirm yes
+    mirror -R --only-newer dist .
+    quit
+    EOF
+  displayName: Deploy via SFTP
+
