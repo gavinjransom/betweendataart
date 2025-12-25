@@ -4,88 +4,6 @@ font-family: "helvetica neue", Arial, Helvetica, sans-serif;
 color: #757E63;
 }
 
-
-
-/* Mobile (Default) ------------------------------------------------------------------------------- */
-/* @media (max-width:768px ) {
-.mobile {
-display: block;
-}
-
-.desktop {
-display: none;
-}
-
-.mobile-container {
-display: grid;
-min-height: 98vh;
-grid-template-columns: 100%;
-grid-template-rows: auto auto 1fr;
-grid-template-areas: 
-"a"
-"b"
-"c";
-}
-
-.header {
-display: flex;
-flex-direction: row;
-font-size: 30px;
-font-weight: 200;
-align-items: center;
-margin-bottom: 20px;
-justify-content: end;
-}
-
-.bda-logo {
-display: flex;
-align-items: center;
-}
-
-.menu-image {
-height: 50px;
-width: 50px;
-}
-
-.bda-title {
-flex-grow: 1;
-text-align: center;
-}
-
-.bda-hamburger {
-margin-left: auto;
-justify-content: flex-end;
-}
-
-.mobile-main {
-margin-top: 20px;
-}
-
-.mob-a {
-grid-area: a;
-}
-
-.mobile-main-title {
-font-size: 20px;
-font-weight: 200;
-text-align: right;
-}
-
-.mobile-sub-title {
-font-size: 15px;
-font-weight: 200;
-text-align: right;
-}
-
-.mob-b {
-    grid-area: b;
-}  
-
-.mob-c {
-grid-area: c;
-}
-} */
-
 /* Desktop ----------------------------------------------------------------------------------------- */
 /* @media (min-width: 769px) { */
 .mobile {
@@ -202,7 +120,15 @@ font-size: 30px;
 }
 
 #info {
-    margin-top: 30px;
-    }
+margin-top: 30px;
+}
 
-/* } */
+.nav-link.active {
+text-shadow: 0 0 0.5px currentColor;
+font-weight: 300;
+color: #848e6f;
+}
+
+.nav-link.active:hover {
+color: #1d1b1b;
+}
