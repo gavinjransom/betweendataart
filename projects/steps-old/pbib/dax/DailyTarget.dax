@@ -1,1 +1,0 @@
-Daily Target = IF('Steps'[Daily_Total]>13700,"Yes","No")

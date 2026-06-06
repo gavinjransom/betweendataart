@@ -1,8 +1,0 @@
-Cumulative Goal = IF(
-    ISBLANK(SUM('Steps'[Daily_Total])),
-    BLANK(),
-    CALCULATE(
-        SUM('Steps'[Daily Goal]),
-        FILTER(
-            ALL('Steps'),
-            'Steps'[Date] <= MAX('Steps'[Date]))))

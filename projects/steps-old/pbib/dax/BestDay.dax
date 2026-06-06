@@ -1,1 +1,0 @@
-Best Day = MAX('Steps'[Daily_Total])
