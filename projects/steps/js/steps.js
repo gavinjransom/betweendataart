@@ -27,7 +27,22 @@ const svg = d3.select(".steps")
 .append("svg")
 .attr("width", width)
 .attr("height", height)
-// .attr("class", "steps-chart");
+
+// Line Glow ---------------------------------------------------------------------
+const defs = svg.append("defs");
+const glow = defs.append("filter")
+.attr("id", "glow");
+
+glow.append("feGaussianBlur")
+.attr("stdDeviation", 3)
+.attr("result", "coloredBlur");
+
+const merge = glow.append("feMerge");
+merge.append("feMergeNode")
+.attr("in", "coloredBlur");
+
+merge.append("feMergeNode")
+.attr("in", "SourceGraphic");
 
 // Define X and Y Scales ---------------------------------------------------------------------
 const xScale = d3.scaleTime()
@@ -46,6 +61,7 @@ const line = d3.line()
 svg.append("path")
 .datum(data)
 .attr("class", "steps-line")
+.attr("filter", "url(#glow)")
 .attr("d", line);
 
 // Define and Append grids ---------------------------------------------------------------------
@@ -72,7 +88,7 @@ svg.append("g")
 // Define and Append Axes  ---------------------------------------------------------------------
 const yAxis = d3.axisLeft(yScale)
 .ticks(6)
-.tickFormat(d => `${d / 1000000}M`);
+.tickFormat(d => `+${d / 1000}k`);
 svg.append("g")
 .attr("class", "axis")
 .attr("transform", `translate(${margin.left},0)`)

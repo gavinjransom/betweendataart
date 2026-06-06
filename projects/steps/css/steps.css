@@ -1,22 +1,41 @@
+/* ----------- Import base css file ----------- */
 @import url("../../../common/css/base.css");
 
+/* ----------- Layout ----------- */
+
+
+/* ----------- Line ----------- */
 .steps-line {
 fill: none;
 stroke: #d96ac2;
 stroke-width: 2px;
 }
 
-.steps-chart {
-/* border: 1px solid #757E63; */
-border: 1px solid #2f2f2f;
-;
-}
-
+/* ----------- Grid ----------- */
 .grid line {
-    stroke: #2f2f2f;
-    stroke-width: 1;
+/* stroke: #2f2f2f; */
+stroke: #757E63;
+stroke-width: 1;
+opacity: 15%;
 }
 
 .grid path {
-    stroke: none;
+stroke: none;
+}
+
+/* ----------- Axes -----------  */
+.axis path.domain {
+stroke: none;
+}
+
+.axis .tick line {
+stroke: none;
+}
+
+.axis text {
+/* stroke: #595858; */
+font-size: 14px;
+/* font-family: "helvetica neue", Arial, Helvetica, sans-serif; */
+font-weight: 200;
+opacity: 60%;
 }
