@@ -9,6 +9,39 @@ data.forEach(d => {
 d.date = new Date(d.date);
 })
 
+// Milestones Data ---------------------------------------------------------------------
+const milestones = 
+[{
+id: "100k-day",
+title: "100k Step Day",
+date: "2024-06-21",
+// value: 644921,
+value: 610000,
+
+type: "point"
+},
+{
+id: "halfway",
+title: "Half Way",
+date: "2024-05-31",
+value: 419024,
+type: "milestone"
+},
+{
+id: "five-million",
+title: "5 Million Reached!",
+date: "2024-11-12",
+value: 659399,
+type: "milestone"
+},
+{
+id: "final",
+title: "Final Count",
+date: "2024-12-31",
+value:571039,
+type: "milestone"
+}];
+
 // SVG Dimensions ---------------------------------------------------------------------
 const width = 800;
 const height = 400;
@@ -21,6 +54,48 @@ left: 50
 
 const chartWidth = width - margin.left - margin.right;
 const chartHeight = height - margin.top - margin.bottom;
+
+const topGridLine = 8500000;
+
+// Milestones Data ---------------------------------------------------------------------
+d3.select(".milestones-list")
+.selectAll(".milestone")
+.data(milestones)
+.enter()
+.append("div")
+.attr("class", "milestone")
+.text(d => d.title)
+.on("mouseover", (event, d) => {
+if (d.type === "milestone") {
+const x = xScale(new Date(d.date));
+svg.append("line")
+.attr("class", "test-line")
+.attr("x1", x)
+.attr("x2", x)
+.attr("y1", yScale(topGridLine))
+.attr("y2", yScale(0))
+// .attr("stroke", "#d4af37")
+.attr("stroke", "#5f7a61")
+
+.attr("stroke-width", 1)
+.attr("opacity", 0.4);
+}
+if (d.type === "point") {
+const x = xScale(new Date(d.date));
+svg.append("circle")
+.attr("class", "test-circle")
+.attr("cx", x)
+.attr("cy", yScale(d.value))
+.attr("r", 35)
+.attr("stroke", "#c9a86a")
+.attr("fill", "none")
+.attr("stroke-width", 1);
+}
+})
+.on("mouseout", () => {
+svg.selectAll(".test-line").remove();
+svg.selectAll(".test-circle").remove();
+});
 
 // Append SVG ---------------------------------------------------------------------
 const svg = d3.select(".steps")
