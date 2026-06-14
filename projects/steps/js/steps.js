@@ -77,8 +77,8 @@ svg.append("line")
 // .attr("stroke", "#d4af37")
 .attr("stroke", "#5f7a61")
 
-.attr("stroke-width", 1)
-.attr("opacity", 0.4);
+.attr("stroke-width", 3)
+.attr("opacity", 0.75);
 }
 if (d.type === "point") {
 const x = xScale(new Date(d.date));
