@@ -11,22 +11,21 @@ d.date = new Date(d.date);
 
 // Milestones Data ---------------------------------------------------------------------
 const milestones = 
-[{
+[
+{id: "halfway",
+title: "Half Way",
+date: "2024-05-31",
+value: 419024,
+type: "milestone",
+description: "2.5m steps walked on 31 May, 425k steps ahead of target"
+},
+{
 id: "100k-day",
 title: "100k Step Day",
 date: "2024-06-21",
 value: 610000,
 type: "point",
-description: "I walked 100k steps in one day to earn the 'Olympic Sandals' FitBit badge"
-},
-{
-id: "halfway",
-title: "Half Way",
-date: "2024-05-31",
-value: 419024,
-type: "milestone",
-description: "2.5m steps walked on 31 May, 419k steps ahead of target"
-
+description: "100k steps in one day to earn the 'Olympic Sandals' FitBit badge"
 },
 {
 id: "five-million",
@@ -34,7 +33,7 @@ title: "5 Million Reached!",
 date: "2024-11-12",
 value: 659399,
 type: "milestone",
-description: "Completed! 5m steps walked on 12 Nov, 659k steps ahead of target"
+description: "Completed! 5m steps walked on 12 Nov, 671k steps ahead of target"
 
 },
 {
@@ -43,7 +42,7 @@ title: "Final Count",
 date: "2024-12-31",
 value:571039,
 type: "milestone",
-description: "Final step count: 5.58m steps, 571k ahead of target"
+description: "Final step count: 5.585m. 585k ahead of target"
 }];
 
 // SVG Dimensions ---------------------------------------------------------------------
@@ -70,6 +69,8 @@ d3.select(".milestones-list")
 .attr("class", "milestone")
 .text(d => d.title)
 .on("mouseover", (event, d) => {
+d3.select(".milestone-description")
+.text(d.description);
 if (d.type === "milestone") {
 const x = xScale(new Date(d.date));
 svg.append("line")
@@ -92,9 +93,9 @@ svg.append("circle")
 .attr("cx", x)
 .attr("cy", yScale(d.value))
 .attr("r", 35)
-.attr("stroke", "#c9a86a")
+.attr("stroke", "#5f7a61")
 .attr("fill", "none")
-.attr("stroke-width", 1)
+.attr("stroke-width", 3)
 .attr("opacity", 0)
 .transition()
 .duration(600)
@@ -102,6 +103,8 @@ svg.append("circle")
 }
 })
 .on("mouseout", () => {
+d3.select(".milestone-description")
+.text("");
 svg.selectAll(".test-line")
 .transition()
 .duration(300)

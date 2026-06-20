@@ -66,5 +66,15 @@ color: #fff;
 }
 
 .milestones-list {
-margin-top: 20px;
+margin-top: 30px;
+}
+
+.milestone-description {
+margin-top: 40px;
+font-weight: 200;
+}
+
+.legend-line {
+color: #d96ac2;
+font-weight: bold;
 }
