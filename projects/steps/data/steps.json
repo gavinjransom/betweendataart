@@ -2,2197 +2,2929 @@
   {
     "date": "2024-01-01",
     "steps": 4536,
-    "progress": -9164,
-    "day": "Monday"
+    "progress": -9126,
+    "day": "Monday",
+    "cumulative": 4536,
+    "goal": 13662
   },
   {
     "date": "2024-01-02",
     "steps": 4774,
-    "progress": -18090,
-    "day": "Tuesday"
+    "progress": -18014,
+    "day": "Tuesday",
+    "cumulative": 9310,
+    "goal": 27324
   },
   {
     "date": "2024-01-03",
     "steps": 14473,
-    "progress": -17317,
-    "day": "Wednesday"
+    "progress": -17203,
+    "day": "Wednesday",
+    "cumulative": 23783,
+    "goal": 40986
   },
   {
     "date": "2024-01-04",
     "steps": 19510,
-    "progress": -11507,
-    "day": "Thursday"
+    "progress": -11355,
+    "day": "Thursday",
+    "cumulative": 43293,
+    "goal": 54648
   },
   {
     "date": "2024-01-05",
     "steps": 21414,
-    "progress": -3793,
-    "day": "Friday"
+    "progress": -3603,
+    "day": "Friday",
+    "cumulative": 64707,
+    "goal": 68310
   },
   {
     "date": "2024-01-06",
     "steps": 27147,
-    "progress": 9654,
-    "day": "Saturday"
+    "progress": 9882,
+    "day": "Saturday",
+    "cumulative": 91854,
+    "goal": 81972
   },
   {
     "date": "2024-01-07",
     "steps": 15092,
-    "progress": 11046,
-    "day": "Sunday"
+    "progress": 11312,
+    "day": "Sunday",
+    "cumulative": 106946,
+    "goal": 95634
   },
   {
     "date": "2024-01-08",
     "steps": 16962,
-    "progress": 14308,
-    "day": "Monday"
+    "progress": 14612,
+    "day": "Monday",
+    "cumulative": 123908,
+    "goal": 109296
   },
   {
     "date": "2024-01-09",
     "steps": 16475,
-    "progress": 17083,
-    "day": "Tuesday"
+    "progress": 17425,
+    "day": "Tuesday",
+    "cumulative": 140383,
+    "goal": 122958
   },
   {
     "date": "2024-01-10",
     "steps": 6540,
-    "progress": 9923,
-    "day": "Wednesday"
+    "progress": 10303,
+    "day": "Wednesday",
+    "cumulative": 146923,
+    "goal": 136620
   },
   {
     "date": "2024-01-11",
     "steps": 15865,
-    "progress": 12088,
-    "day": "Thursday"
+    "progress": 12506,
+    "day": "Thursday",
+    "cumulative": 162788,
+    "goal": 150282
   },
   {
     "date": "2024-01-12",
     "steps": 16178,
-    "progress": 14566,
-    "day": "Friday"
+    "progress": 15022,
+    "day": "Friday",
+    "cumulative": 178966,
+    "goal": 163944
   },
   {
     "date": "2024-01-13",
     "steps": 25469,
-    "progress": 26335,
-    "day": "Saturday"
+    "progress": 26829,
+    "day": "Saturday",
+    "cumulative": 204435,
+    "goal": 177606
   },
   {
     "date": "2024-01-14",
     "steps": 15800,
-    "progress": 28435,
-    "day": "Sunday"
+    "progress": 28967,
+    "day": "Sunday",
+    "cumulative": 220235,
+    "goal": 191268
   },
   {
     "date": "2024-01-15",
     "steps": 14332,
-    "progress": 29067,
-    "day": "Monday"
+    "progress": 29637,
+    "day": "Monday",
+    "cumulative": 234567,
+    "goal": 204930
   },
   {
     "date": "2024-01-16",
     "steps": 22276,
-    "progress": 37643,
-    "day": "Tuesday"
+    "progress": 38251,
+    "day": "Tuesday",
+    "cumulative": 256843,
+    "goal": 218592
   },
   {
     "date": "2024-01-17",
     "steps": 15034,
-    "progress": 38977,
-    "day": "Wednesday"
+    "progress": 39623,
+    "day": "Wednesday",
+    "cumulative": 271877,
+    "goal": 232254
   },
   {
     "date": "2024-01-18",
     "steps": 13215,
-    "progress": 38492,
-    "day": "Thursday"
+    "progress": 39176,
+    "day": "Thursday",
+    "cumulative": 285092,
+    "goal": 245916
   },
   {
     "date": "2024-01-19",
     "steps": 20618,
-    "progress": 45410,
-    "day": "Friday"
+    "progress": 46132,
+    "day": "Friday",
+    "cumulative": 305710,
+    "goal": 259578
   },
   {
     "date": "2024-01-20",
     "steps": 37770,
-    "progress": 69480,
-    "day": "Saturday"
+    "progress": 70240,
+    "day": "Saturday",
+    "cumulative": 343480,
+    "goal": 273240
   },
   {
     "date": "2024-01-21",
     "steps": 12619,
-    "progress": 68399,
-    "day": "Sunday"
+    "progress": 69197,
+    "day": "Sunday",
+    "cumulative": 356099,
+    "goal": 286902
   },
   {
     "date": "2024-01-22",
     "steps": 11550,
-    "progress": 66249,
-    "day": "Monday"
+    "progress": 67085,
+    "day": "Monday",
+    "cumulative": 367649,
+    "goal": 300564
   },
   {
     "date": "2024-01-23",
     "steps": 15257,
-    "progress": 67806,
-    "day": "Tuesday"
+    "progress": 68680,
+    "day": "Tuesday",
+    "cumulative": 382906,
+    "goal": 314226
   },
   {
     "date": "2024-01-24",
     "steps": 3852,
-    "progress": 57958,
-    "day": "Wednesday"
+    "progress": 58870,
+    "day": "Wednesday",
+    "cumulative": 386758,
+    "goal": 327888
   },
   {
     "date": "2024-01-25",
     "steps": 18609,
-    "progress": 62867,
-    "day": "Thursday"
+    "progress": 63817,
+    "day": "Thursday",
+    "cumulative": 405367,
+    "goal": 341550
   },
   {
     "date": "2024-01-26",
     "steps": 12706,
-    "progress": 61873,
-    "day": "Friday"
+    "progress": 62861,
+    "day": "Friday",
+    "cumulative": 418073,
+    "goal": 355212
   },
   {
     "date": "2024-01-27",
     "steps": 43161,
-    "progress": 91334,
-    "day": "Saturday"
+    "progress": 92360,
+    "day": "Saturday",
+    "cumulative": 461234,
+    "goal": 368874
   },
   {
     "date": "2024-01-28",
     "steps": 4779,
-    "progress": 82413,
-    "day": "Sunday"
+    "progress": 83477,
+    "day": "Sunday",
+    "cumulative": 466013,
+    "goal": 382536
   },
   {
     "date": "2024-01-29",
     "steps": 11924,
-    "progress": 80637,
-    "day": "Monday"
+    "progress": 81739,
+    "day": "Monday",
+    "cumulative": 477937,
+    "goal": 396198
   },
   {
     "date": "2024-01-30",
     "steps": 15777,
-    "progress": 82714,
-    "day": "Tuesday"
+    "progress": 83854,
+    "day": "Tuesday",
+    "cumulative": 493714,
+    "goal": 409860
   },
   {
     "date": "2024-01-31",
     "steps": 17785,
-    "progress": 86799,
-    "day": "Wednesday"
+    "progress": 87977,
+    "day": "Wednesday",
+    "cumulative": 511499,
+    "goal": 423522
   },
   {
     "date": "2024-02-01",
     "steps": 8604,
-    "progress": 81703,
-    "day": "Thursday"
+    "progress": 82919,
+    "day": "Thursday",
+    "cumulative": 520103,
+    "goal": 437184
   },
   {
     "date": "2024-02-02",
     "steps": 10396,
-    "progress": 78399,
-    "day": "Friday"
+    "progress": 79653,
+    "day": "Friday",
+    "cumulative": 530499,
+    "goal": 450846
   },
   {
     "date": "2024-02-03",
     "steps": 35883,
-    "progress": 100582,
-    "day": "Saturday"
+    "progress": 101874,
+    "day": "Saturday",
+    "cumulative": 566382,
+    "goal": 464508
   },
   {
     "date": "2024-02-04",
     "steps": 3855,
-    "progress": 90737,
-    "day": "Sunday"
+    "progress": 92067,
+    "day": "Sunday",
+    "cumulative": 570237,
+    "goal": 478170
   },
   {
     "date": "2024-02-05",
     "steps": 12063,
-    "progress": 89100,
-    "day": "Monday"
+    "progress": 90468,
+    "day": "Monday",
+    "cumulative": 582300,
+    "goal": 491832
   },
   {
     "date": "2024-02-06",
     "steps": 18660,
-    "progress": 94060,
-    "day": "Tuesday"
+    "progress": 95466,
+    "day": "Tuesday",
+    "cumulative": 600960,
+    "goal": 505494
   },
   {
     "date": "2024-02-07",
     "steps": 21171,
-    "progress": 101531,
-    "day": "Wednesday"
+    "progress": 102975,
+    "day": "Wednesday",
+    "cumulative": 622131,
+    "goal": 519156
   },
   {
     "date": "2024-02-08",
     "steps": 13509,
-    "progress": 101340,
-    "day": "Thursday"
+    "progress": 102822,
+    "day": "Thursday",
+    "cumulative": 635640,
+    "goal": 532818
   },
   {
     "date": "2024-02-09",
     "steps": 7508,
-    "progress": 95148,
-    "day": "Friday"
+    "progress": 96668,
+    "day": "Friday",
+    "cumulative": 643148,
+    "goal": 546480
   },
   {
     "date": "2024-02-10",
     "steps": 30738,
-    "progress": 112186,
-    "day": "Saturday"
+    "progress": 113744,
+    "day": "Saturday",
+    "cumulative": 673886,
+    "goal": 560142
   },
   {
     "date": "2024-02-11",
     "steps": 9738,
-    "progress": 108224,
-    "day": "Sunday"
+    "progress": 109820,
+    "day": "Sunday",
+    "cumulative": 683624,
+    "goal": 573804
   },
   {
     "date": "2024-02-12",
     "steps": 6347,
-    "progress": 100871,
-    "day": "Monday"
+    "progress": 102505,
+    "day": "Monday",
+    "cumulative": 689971,
+    "goal": 587466
   },
   {
     "date": "2024-02-13",
     "steps": 11343,
-    "progress": 98514,
-    "day": "Tuesday"
+    "progress": 100186,
+    "day": "Tuesday",
+    "cumulative": 701314,
+    "goal": 601128
   },
   {
     "date": "2024-02-14",
     "steps": 6707,
-    "progress": 91521,
-    "day": "Wednesday"
+    "progress": 93231,
+    "day": "Wednesday",
+    "cumulative": 708021,
+    "goal": 614790
   },
   {
     "date": "2024-02-15",
     "steps": 9426,
-    "progress": 87247,
-    "day": "Thursday"
+    "progress": 88995,
+    "day": "Thursday",
+    "cumulative": 717447,
+    "goal": 628452
   },
   {
     "date": "2024-02-16",
     "steps": 14929,
-    "progress": 88476,
-    "day": "Friday"
+    "progress": 90262,
+    "day": "Friday",
+    "cumulative": 732376,
+    "goal": 642114
   },
   {
     "date": "2024-02-17",
     "steps": 31057,
-    "progress": 105833,
-    "day": "Saturday"
+    "progress": 107657,
+    "day": "Saturday",
+    "cumulative": 763433,
+    "goal": 655776
   },
   {
     "date": "2024-02-18",
     "steps": 7471,
-    "progress": 99604,
-    "day": "Sunday"
+    "progress": 101466,
+    "day": "Sunday",
+    "cumulative": 770904,
+    "goal": 669438
   },
   {
     "date": "2024-02-19",
     "steps": 9195,
-    "progress": 95099,
-    "day": "Monday"
+    "progress": 96999,
+    "day": "Monday",
+    "cumulative": 780099,
+    "goal": 683100
   },
   {
     "date": "2024-02-20",
     "steps": 21659,
-    "progress": 103058,
-    "day": "Tuesday"
+    "progress": 104996,
+    "day": "Tuesday",
+    "cumulative": 801758,
+    "goal": 696762
   },
   {
     "date": "2024-02-21",
     "steps": 18449,
-    "progress": 107807,
-    "day": "Wednesday"
+    "progress": 109783,
+    "day": "Wednesday",
+    "cumulative": 820207,
+    "goal": 710424
   },
   {
     "date": "2024-02-22",
     "steps": 10654,
-    "progress": 104761,
-    "day": "Thursday"
+    "progress": 106775,
+    "day": "Thursday",
+    "cumulative": 830861,
+    "goal": 724086
   },
   {
     "date": "2024-02-23",
     "steps": 14101,
-    "progress": 105162,
-    "day": "Friday"
+    "progress": 107214,
+    "day": "Friday",
+    "cumulative": 844962,
+    "goal": 737748
   },
   {
     "date": "2024-02-24",
     "steps": 38482,
-    "progress": 129944,
-    "day": "Saturday"
+    "progress": 132034,
+    "day": "Saturday",
+    "cumulative": 883444,
+    "goal": 751410
   },
   {
     "date": "2024-02-25",
     "steps": 16370,
-    "progress": 132614,
-    "day": "Sunday"
+    "progress": 134742,
+    "day": "Sunday",
+    "cumulative": 899814,
+    "goal": 765072
   },
   {
     "date": "2024-02-26",
     "steps": 16512,
-    "progress": 135426,
-    "day": "Monday"
+    "progress": 137592,
+    "day": "Monday",
+    "cumulative": 916326,
+    "goal": 778734
   },
   {
     "date": "2024-02-27",
     "steps": 16056,
-    "progress": 137782,
-    "day": "Tuesday"
+    "progress": 139986,
+    "day": "Tuesday",
+    "cumulative": 932382,
+    "goal": 792396
   },
   {
     "date": "2024-02-28",
     "steps": 8733,
-    "progress": 132815,
-    "day": "Wednesday"
+    "progress": 135057,
+    "day": "Wednesday",
+    "cumulative": 941115,
+    "goal": 806058
   },
   {
     "date": "2024-02-29",
     "steps": 13521,
-    "progress": 132636,
-    "day": "Thursday"
+    "progress": 134916,
+    "day": "Thursday",
+    "cumulative": 954636,
+    "goal": 819720
   },
   {
     "date": "2024-03-01",
     "steps": 17144,
-    "progress": 136080,
-    "day": "Friday"
+    "progress": 138398,
+    "day": "Friday",
+    "cumulative": 971780,
+    "goal": 833382
   },
   {
     "date": "2024-03-02",
     "steps": 12252,
-    "progress": 134632,
-    "day": "Saturday"
+    "progress": 136988,
+    "day": "Saturday",
+    "cumulative": 984032,
+    "goal": 847044
   },
   {
     "date": "2024-03-03",
     "steps": 9931,
-    "progress": 130863,
-    "day": "Sunday"
+    "progress": 133257,
+    "day": "Sunday",
+    "cumulative": 993963,
+    "goal": 860706
   },
   {
     "date": "2024-03-04",
     "steps": 9088,
-    "progress": 126251,
-    "day": "Monday"
+    "progress": 128683,
+    "day": "Monday",
+    "cumulative": 1003051,
+    "goal": 874368
   },
   {
     "date": "2024-03-05",
     "steps": 17588,
-    "progress": 130139,
-    "day": "Tuesday"
+    "progress": 132609,
+    "day": "Tuesday",
+    "cumulative": 1020639,
+    "goal": 888030
   },
   {
     "date": "2024-03-06",
     "steps": 20678,
-    "progress": 137117,
-    "day": "Wednesday"
+    "progress": 139625,
+    "day": "Wednesday",
+    "cumulative": 1041317,
+    "goal": 901692
   },
   {
     "date": "2024-03-07",
     "steps": 11518,
-    "progress": 134935,
-    "day": "Thursday"
+    "progress": 137481,
+    "day": "Thursday",
+    "cumulative": 1052835,
+    "goal": 915354
   },
   {
     "date": "2024-03-08",
     "steps": 10575,
-    "progress": 131810,
-    "day": "Friday"
+    "progress": 134394,
+    "day": "Friday",
+    "cumulative": 1063410,
+    "goal": 929016
   },
   {
     "date": "2024-03-09",
     "steps": 36853,
-    "progress": 154963,
-    "day": "Saturday"
+    "progress": 157585,
+    "day": "Saturday",
+    "cumulative": 1100263,
+    "goal": 942678
   },
   {
     "date": "2024-03-10",
     "steps": 4197,
-    "progress": 145460,
-    "day": "Sunday"
+    "progress": 148120,
+    "day": "Sunday",
+    "cumulative": 1104460,
+    "goal": 956340
   },
   {
     "date": "2024-03-11",
     "steps": 8039,
-    "progress": 139799,
-    "day": "Monday"
+    "progress": 142497,
+    "day": "Monday",
+    "cumulative": 1112499,
+    "goal": 970002
   },
   {
     "date": "2024-03-12",
     "steps": 15519,
-    "progress": 141618,
-    "day": "Tuesday"
+    "progress": 144354,
+    "day": "Tuesday",
+    "cumulative": 1128018,
+    "goal": 983664
   },
   {
     "date": "2024-03-13",
     "steps": 15746,
-    "progress": 143664,
-    "day": "Wednesday"
+    "progress": 146438,
+    "day": "Wednesday",
+    "cumulative": 1143764,
+    "goal": 997326
   },
   {
     "date": "2024-03-14",
     "steps": 8580,
-    "progress": 138544,
-    "day": "Thursday"
+    "progress": 141356,
+    "day": "Thursday",
+    "cumulative": 1152344,
+    "goal": 1010988
   },
   {
     "date": "2024-03-15",
     "steps": 7623,
-    "progress": 132467,
-    "day": "Friday"
+    "progress": 135317,
+    "day": "Friday",
+    "cumulative": 1159967,
+    "goal": 1024650
   },
   {
     "date": "2024-03-16",
     "steps": 12587,
-    "progress": 131354,
-    "day": "Saturday"
+    "progress": 134242,
+    "day": "Saturday",
+    "cumulative": 1172554,
+    "goal": 1038312
   },
   {
     "date": "2024-03-17",
     "steps": 11287,
-    "progress": 128941,
-    "day": "Sunday"
+    "progress": 131867,
+    "day": "Sunday",
+    "cumulative": 1183841,
+    "goal": 1051974
   },
   {
     "date": "2024-03-18",
     "steps": 16192,
-    "progress": 131433,
-    "day": "Monday"
+    "progress": 134397,
+    "day": "Monday",
+    "cumulative": 1200033,
+    "goal": 1065636
   },
   {
     "date": "2024-03-19",
     "steps": 15347,
-    "progress": 133080,
-    "day": "Tuesday"
+    "progress": 136082,
+    "day": "Tuesday",
+    "cumulative": 1215380,
+    "goal": 1079298
   },
   {
     "date": "2024-03-20",
     "steps": 15800,
-    "progress": 135180,
-    "day": "Wednesday"
+    "progress": 138220,
+    "day": "Wednesday",
+    "cumulative": 1231180,
+    "goal": 1092960
   },
   {
     "date": "2024-03-21",
     "steps": 15168,
-    "progress": 136648,
-    "day": "Thursday"
+    "progress": 139726,
+    "day": "Thursday",
+    "cumulative": 1246348,
+    "goal": 1106622
   },
   {
     "date": "2024-03-22",
     "steps": 14089,
-    "progress": 137037,
-    "day": "Friday"
+    "progress": 140153,
+    "day": "Friday",
+    "cumulative": 1260437,
+    "goal": 1120284
   },
   {
     "date": "2024-03-23",
     "steps": 35343,
-    "progress": 158680,
-    "day": "Saturday"
+    "progress": 161834,
+    "day": "Saturday",
+    "cumulative": 1295780,
+    "goal": 1133946
   },
   {
     "date": "2024-03-24",
     "steps": 9157,
-    "progress": 154137,
-    "day": "Sunday"
+    "progress": 157329,
+    "day": "Sunday",
+    "cumulative": 1304937,
+    "goal": 1147608
   },
   {
     "date": "2024-03-25",
     "steps": 11806,
-    "progress": 152243,
-    "day": "Monday"
+    "progress": 155473,
+    "day": "Monday",
+    "cumulative": 1316743,
+    "goal": 1161270
   },
   {
     "date": "2024-03-26",
     "steps": 17336,
-    "progress": 155879,
-    "day": "Tuesday"
+    "progress": 159147,
+    "day": "Tuesday",
+    "cumulative": 1334079,
+    "goal": 1174932
   },
   {
     "date": "2024-03-27",
     "steps": 9462,
-    "progress": 151641,
-    "day": "Wednesday"
+    "progress": 154947,
+    "day": "Wednesday",
+    "cumulative": 1343541,
+    "goal": 1188594
   },
   {
     "date": "2024-03-28",
     "steps": 13160,
-    "progress": 151101,
-    "day": "Thursday"
+    "progress": 154445,
+    "day": "Thursday",
+    "cumulative": 1356701,
+    "goal": 1202256
   },
   {
     "date": "2024-03-29",
     "steps": 71004,
-    "progress": 208405,
-    "day": "Friday"
+    "progress": 211787,
+    "day": "Friday",
+    "cumulative": 1427705,
+    "goal": 1215918
   },
   {
     "date": "2024-03-30",
     "steps": 9920,
-    "progress": 204625,
-    "day": "Saturday"
+    "progress": 208045,
+    "day": "Saturday",
+    "cumulative": 1437625,
+    "goal": 1229580
   },
   {
     "date": "2024-03-31",
     "steps": 6609,
-    "progress": 197534,
-    "day": "Sunday"
+    "progress": 200992,
+    "day": "Sunday",
+    "cumulative": 1444234,
+    "goal": 1243242
   },
   {
     "date": "2024-04-01",
     "steps": 25673,
-    "progress": 209507,
-    "day": "Monday"
+    "progress": 213003,
+    "day": "Monday",
+    "cumulative": 1469907,
+    "goal": 1256904
   },
   {
     "date": "2024-04-02",
     "steps": 10206,
-    "progress": 206013,
-    "day": "Tuesday"
+    "progress": 209547,
+    "day": "Tuesday",
+    "cumulative": 1480113,
+    "goal": 1270566
   },
   {
     "date": "2024-04-03",
     "steps": 11948,
-    "progress": 204261,
-    "day": "Wednesday"
+    "progress": 207833,
+    "day": "Wednesday",
+    "cumulative": 1492061,
+    "goal": 1284228
   },
   {
     "date": "2024-04-04",
     "steps": 18500,
-    "progress": 209061,
-    "day": "Thursday"
+    "progress": 212671,
+    "day": "Thursday",
+    "cumulative": 1510561,
+    "goal": 1297890
   },
   {
     "date": "2024-04-05",
     "steps": 15760,
-    "progress": 211121,
-    "day": "Friday"
+    "progress": 214769,
+    "day": "Friday",
+    "cumulative": 1526321,
+    "goal": 1311552
   },
   {
     "date": "2024-04-06",
     "steps": 47765,
-    "progress": 245186,
-    "day": "Saturday"
+    "progress": 248872,
+    "day": "Saturday",
+    "cumulative": 1574086,
+    "goal": 1325214
   },
   {
     "date": "2024-04-07",
     "steps": 4020,
-    "progress": 235506,
-    "day": "Sunday"
+    "progress": 239230,
+    "day": "Sunday",
+    "cumulative": 1578106,
+    "goal": 1338876
   },
   {
     "date": "2024-04-08",
     "steps": 8074,
-    "progress": 229880,
-    "day": "Monday"
+    "progress": 233642,
+    "day": "Monday",
+    "cumulative": 1586180,
+    "goal": 1352538
   },
   {
     "date": "2024-04-09",
     "steps": 19937,
-    "progress": 236117,
-    "day": "Tuesday"
+    "progress": 239917,
+    "day": "Tuesday",
+    "cumulative": 1606117,
+    "goal": 1366200
   },
   {
     "date": "2024-04-10",
     "steps": 6675,
-    "progress": 229092,
-    "day": "Wednesday"
+    "progress": 232930,
+    "day": "Wednesday",
+    "cumulative": 1612792,
+    "goal": 1379862
   },
   {
     "date": "2024-04-11",
     "steps": 15328,
-    "progress": 230720,
-    "day": "Thursday"
+    "progress": 234596,
+    "day": "Thursday",
+    "cumulative": 1628120,
+    "goal": 1393524
   },
   {
     "date": "2024-04-12",
     "steps": 13683,
-    "progress": 230703,
-    "day": "Friday"
+    "progress": 234617,
+    "day": "Friday",
+    "cumulative": 1641803,
+    "goal": 1407186
   },
   {
     "date": "2024-04-13",
     "steps": 58450,
-    "progress": 275453,
-    "day": "Saturday"
+    "progress": 279405,
+    "day": "Saturday",
+    "cumulative": 1700253,
+    "goal": 1420848
   },
   {
     "date": "2024-04-14",
     "steps": 15161,
-    "progress": 276914,
-    "day": "Sunday"
+    "progress": 280904,
+    "day": "Sunday",
+    "cumulative": 1715414,
+    "goal": 1434510
   },
   {
     "date": "2024-04-15",
     "steps": 9568,
-    "progress": 272782,
-    "day": "Monday"
+    "progress": 276810,
+    "day": "Monday",
+    "cumulative": 1724982,
+    "goal": 1448172
   },
   {
     "date": "2024-04-16",
     "steps": 9795,
-    "progress": 268877,
-    "day": "Tuesday"
+    "progress": 272943,
+    "day": "Tuesday",
+    "cumulative": 1734777,
+    "goal": 1461834
   },
   {
     "date": "2024-04-17",
     "steps": 24569,
-    "progress": 279746,
-    "day": "Wednesday"
+    "progress": 283850,
+    "day": "Wednesday",
+    "cumulative": 1759346,
+    "goal": 1475496
   },
   {
     "date": "2024-04-18",
     "steps": 11947,
-    "progress": 277993,
-    "day": "Thursday"
+    "progress": 282135,
+    "day": "Thursday",
+    "cumulative": 1771293,
+    "goal": 1489158
   },
   {
     "date": "2024-04-19",
     "steps": 16570,
-    "progress": 280863,
-    "day": "Friday"
+    "progress": 285043,
+    "day": "Friday",
+    "cumulative": 1787863,
+    "goal": 1502820
   },
   {
     "date": "2024-04-20",
     "steps": 25439,
-    "progress": 292602,
-    "day": "Saturday"
+    "progress": 296820,
+    "day": "Saturday",
+    "cumulative": 1813302,
+    "goal": 1516482
   },
   {
     "date": "2024-04-21",
     "steps": 2623,
-    "progress": 281525,
-    "day": "Sunday"
+    "progress": 285781,
+    "day": "Sunday",
+    "cumulative": 1815925,
+    "goal": 1530144
   },
   {
     "date": "2024-04-22",
     "steps": 4097,
-    "progress": 271922,
-    "day": "Monday"
+    "progress": 276216,
+    "day": "Monday",
+    "cumulative": 1820022,
+    "goal": 1543806
   },
   {
     "date": "2024-04-23",
     "steps": 6240,
-    "progress": 264462,
-    "day": "Tuesday"
+    "progress": 268794,
+    "day": "Tuesday",
+    "cumulative": 1826262,
+    "goal": 1557468
   },
   {
     "date": "2024-04-24",
     "steps": 15840,
-    "progress": 266602,
-    "day": "Wednesday"
+    "progress": 270972,
+    "day": "Wednesday",
+    "cumulative": 1842102,
+    "goal": 1571130
   },
   {
     "date": "2024-04-25",
     "steps": 12764,
-    "progress": 265666,
-    "day": "Thursday"
+    "progress": 270074,
+    "day": "Thursday",
+    "cumulative": 1854866,
+    "goal": 1584792
   },
   {
     "date": "2024-04-26",
     "steps": 10175,
-    "progress": 262141,
-    "day": "Friday"
+    "progress": 266587,
+    "day": "Friday",
+    "cumulative": 1865041,
+    "goal": 1598454
   },
   {
     "date": "2024-04-27",
     "steps": 34347,
-    "progress": 282788,
-    "day": "Saturday"
+    "progress": 287272,
+    "day": "Saturday",
+    "cumulative": 1899388,
+    "goal": 1612116
   },
   {
     "date": "2024-04-28",
     "steps": 2227,
-    "progress": 271315,
-    "day": "Sunday"
+    "progress": 275837,
+    "day": "Sunday",
+    "cumulative": 1901615,
+    "goal": 1625778
   },
   {
     "date": "2024-04-29",
     "steps": 18064,
-    "progress": 275679,
-    "day": "Monday"
+    "progress": 280239,
+    "day": "Monday",
+    "cumulative": 1919679,
+    "goal": 1639440
   },
   {
     "date": "2024-04-30",
     "steps": 23155,
-    "progress": 285134,
-    "day": "Tuesday"
+    "progress": 289732,
+    "day": "Tuesday",
+    "cumulative": 1942834,
+    "goal": 1653102
   },
   {
     "date": "2024-05-01",
     "steps": 19363,
-    "progress": 290797,
-    "day": "Wednesday"
+    "progress": 295433,
+    "day": "Wednesday",
+    "cumulative": 1962197,
+    "goal": 1666764
   },
   {
     "date": "2024-05-02",
     "steps": 13712,
-    "progress": 290809,
-    "day": "Thursday"
+    "progress": 295483,
+    "day": "Thursday",
+    "cumulative": 1975909,
+    "goal": 1680426
   },
   {
     "date": "2024-05-03",
     "steps": 14201,
-    "progress": 291310,
-    "day": "Friday"
+    "progress": 296022,
+    "day": "Friday",
+    "cumulative": 1990110,
+    "goal": 1694088
   },
   {
     "date": "2024-05-04",
     "steps": 20610,
-    "progress": 298220,
-    "day": "Saturday"
+    "progress": 302970,
+    "day": "Saturday",
+    "cumulative": 2010720,
+    "goal": 1707750
   },
   {
     "date": "2024-05-05",
     "steps": 14410,
-    "progress": 298930,
-    "day": "Sunday"
+    "progress": 303718,
+    "day": "Sunday",
+    "cumulative": 2025130,
+    "goal": 1721412
   },
   {
     "date": "2024-05-06",
     "steps": 11055,
-    "progress": 296285,
-    "day": "Monday"
+    "progress": 301111,
+    "day": "Monday",
+    "cumulative": 2036185,
+    "goal": 1735074
   },
   {
     "date": "2024-05-07",
     "steps": 12931,
-    "progress": 295516,
-    "day": "Tuesday"
+    "progress": 300380,
+    "day": "Tuesday",
+    "cumulative": 2049116,
+    "goal": 1748736
   },
   {
     "date": "2024-05-08",
     "steps": 17042,
-    "progress": 298858,
-    "day": "Wednesday"
+    "progress": 303760,
+    "day": "Wednesday",
+    "cumulative": 2066158,
+    "goal": 1762398
   },
   {
     "date": "2024-05-09",
     "steps": 10582,
-    "progress": 295740,
-    "day": "Thursday"
+    "progress": 300680,
+    "day": "Thursday",
+    "cumulative": 2076740,
+    "goal": 1776060
   },
   {
     "date": "2024-05-10",
     "steps": 10611,
-    "progress": 292651,
-    "day": "Friday"
+    "progress": 297629,
+    "day": "Friday",
+    "cumulative": 2087351,
+    "goal": 1789722
   },
   {
     "date": "2024-05-11",
     "steps": 18808,
-    "progress": 297759,
-    "day": "Saturday"
+    "progress": 302775,
+    "day": "Saturday",
+    "cumulative": 2106159,
+    "goal": 1803384
   },
   {
     "date": "2024-05-12",
     "steps": 15331,
-    "progress": 299390,
-    "day": "Sunday"
+    "progress": 304444,
+    "day": "Sunday",
+    "cumulative": 2121490,
+    "goal": 1817046
   },
   {
     "date": "2024-05-13",
     "steps": 9522,
-    "progress": 295212,
-    "day": "Monday"
+    "progress": 300304,
+    "day": "Monday",
+    "cumulative": 2131012,
+    "goal": 1830708
   },
   {
     "date": "2024-05-14",
     "steps": 15881,
-    "progress": 297393,
-    "day": "Tuesday"
+    "progress": 302523,
+    "day": "Tuesday",
+    "cumulative": 2146893,
+    "goal": 1844370
   },
   {
     "date": "2024-05-15",
     "steps": 24449,
-    "progress": 308142,
-    "day": "Wednesday"
+    "progress": 313310,
+    "day": "Wednesday",
+    "cumulative": 2171342,
+    "goal": 1858032
   },
   {
     "date": "2024-05-16",
     "steps": 15527,
-    "progress": 309969,
-    "day": "Thursday"
+    "progress": 315175,
+    "day": "Thursday",
+    "cumulative": 2186869,
+    "goal": 1871694
   },
   {
     "date": "2024-05-17",
     "steps": 25215,
-    "progress": 321484,
-    "day": "Friday"
+    "progress": 326728,
+    "day": "Friday",
+    "cumulative": 2212084,
+    "goal": 1885356
   },
   {
     "date": "2024-05-18",
     "steps": 32403,
-    "progress": 340187,
-    "day": "Saturday"
+    "progress": 345469,
+    "day": "Saturday",
+    "cumulative": 2244487,
+    "goal": 1899018
   },
   {
     "date": "2024-05-19",
     "steps": 22270,
-    "progress": 348757,
-    "day": "Sunday"
+    "progress": 354077,
+    "day": "Sunday",
+    "cumulative": 2266757,
+    "goal": 1912680
   },
   {
     "date": "2024-05-20",
     "steps": 25927,
-    "progress": 360984,
-    "day": "Monday"
+    "progress": 366342,
+    "day": "Monday",
+    "cumulative": 2292684,
+    "goal": 1926342
   },
   {
     "date": "2024-05-21",
     "steps": 20306,
-    "progress": 367590,
-    "day": "Tuesday"
+    "progress": 372986,
+    "day": "Tuesday",
+    "cumulative": 2312990,
+    "goal": 1940004
   },
   {
     "date": "2024-05-22",
     "steps": 13880,
-    "progress": 367770,
-    "day": "Wednesday"
+    "progress": 373204,
+    "day": "Wednesday",
+    "cumulative": 2326870,
+    "goal": 1953666
   },
   {
     "date": "2024-05-23",
     "steps": 26030,
-    "progress": 380100,
-    "day": "Thursday"
+    "progress": 385572,
+    "day": "Thursday",
+    "cumulative": 2352900,
+    "goal": 1967328
   },
   {
     "date": "2024-05-24",
     "steps": 15840,
-    "progress": 382240,
-    "day": "Friday"
+    "progress": 387750,
+    "day": "Friday",
+    "cumulative": 2368740,
+    "goal": 1980990
   },
   {
     "date": "2024-05-25",
     "steps": 25914,
-    "progress": 394454,
-    "day": "Saturday"
+    "progress": 400002,
+    "day": "Saturday",
+    "cumulative": 2394654,
+    "goal": 1994652
   },
   {
     "date": "2024-05-26",
     "steps": 19599,
-    "progress": 400353,
-    "day": "Sunday"
+    "progress": 405939,
+    "day": "Sunday",
+    "cumulative": 2414253,
+    "goal": 2008314
   },
   {
     "date": "2024-05-27",
     "steps": 9761,
-    "progress": 396414,
-    "day": "Monday"
+    "progress": 402038,
+    "day": "Monday",
+    "cumulative": 2424014,
+    "goal": 2021976
   },
   {
     "date": "2024-05-28",
     "steps": 22106,
-    "progress": 404820,
-    "day": "Tuesday"
+    "progress": 410482,
+    "day": "Tuesday",
+    "cumulative": 2446120,
+    "goal": 2035638
   },
   {
     "date": "2024-05-29",
     "steps": 19690,
-    "progress": 410810,
-    "day": "Wednesday"
+    "progress": 416510,
+    "day": "Wednesday",
+    "cumulative": 2465810,
+    "goal": 2049300
   },
   {
     "date": "2024-05-30",
     "steps": 14104,
-    "progress": 411214,
-    "day": "Thursday"
+    "progress": 416952,
+    "day": "Thursday",
+    "cumulative": 2479914,
+    "goal": 2062962
   },
   {
     "date": "2024-05-31",
     "steps": 21510,
-    "progress": 419024,
-    "day": "Friday"
+    "progress": 424800,
+    "day": "Friday",
+    "cumulative": 2501424,
+    "goal": 2076624
   },
   {
     "date": "2024-06-01",
     "steps": 33223,
-    "progress": 438547,
-    "day": "Saturday"
+    "progress": 444361,
+    "day": "Saturday",
+    "cumulative": 2534647,
+    "goal": 2090286
   },
   {
     "date": "2024-06-02",
     "steps": 28874,
-    "progress": 453721,
-    "day": "Sunday"
+    "progress": 459573,
+    "day": "Sunday",
+    "cumulative": 2563521,
+    "goal": 2103948
   },
   {
     "date": "2024-06-03",
     "steps": 18478,
-    "progress": 458499,
-    "day": "Monday"
+    "progress": 464389,
+    "day": "Monday",
+    "cumulative": 2581999,
+    "goal": 2117610
   },
   {
     "date": "2024-06-04",
     "steps": 17492,
-    "progress": 462291,
-    "day": "Tuesday"
+    "progress": 468219,
+    "day": "Tuesday",
+    "cumulative": 2599491,
+    "goal": 2131272
   },
   {
     "date": "2024-06-05",
     "steps": 22983,
-    "progress": 471574,
-    "day": "Wednesday"
+    "progress": 477540,
+    "day": "Wednesday",
+    "cumulative": 2622474,
+    "goal": 2144934
   },
   {
     "date": "2024-06-06",
     "steps": 22343,
-    "progress": 480217,
-    "day": "Thursday"
+    "progress": 486221,
+    "day": "Thursday",
+    "cumulative": 2644817,
+    "goal": 2158596
   },
   {
     "date": "2024-06-07",
     "steps": 16405,
-    "progress": 482922,
-    "day": "Friday"
+    "progress": 488964,
+    "day": "Friday",
+    "cumulative": 2661222,
+    "goal": 2172258
   },
   {
     "date": "2024-06-08",
     "steps": 24196,
-    "progress": 493418,
-    "day": "Saturday"
+    "progress": 499498,
+    "day": "Saturday",
+    "cumulative": 2685418,
+    "goal": 2185920
   },
   {
     "date": "2024-06-09",
     "steps": 18957,
-    "progress": 498675,
-    "day": "Sunday"
+    "progress": 504793,
+    "day": "Sunday",
+    "cumulative": 2704375,
+    "goal": 2199582
   },
   {
     "date": "2024-06-10",
     "steps": 13886,
-    "progress": 498861,
-    "day": "Monday"
+    "progress": 505017,
+    "day": "Monday",
+    "cumulative": 2718261,
+    "goal": 2213244
   },
   {
     "date": "2024-06-11",
     "steps": 21132,
-    "progress": 506293,
-    "day": "Tuesday"
+    "progress": 512487,
+    "day": "Tuesday",
+    "cumulative": 2739393,
+    "goal": 2226906
   },
   {
     "date": "2024-06-12",
     "steps": 15757,
-    "progress": 508350,
-    "day": "Wednesday"
+    "progress": 514582,
+    "day": "Wednesday",
+    "cumulative": 2755150,
+    "goal": 2240568
   },
   {
     "date": "2024-06-13",
     "steps": 16445,
-    "progress": 511095,
-    "day": "Thursday"
+    "progress": 517365,
+    "day": "Thursday",
+    "cumulative": 2771595,
+    "goal": 2254230
   },
   {
     "date": "2024-06-14",
     "steps": 20889,
-    "progress": 518284,
-    "day": "Friday"
+    "progress": 524592,
+    "day": "Friday",
+    "cumulative": 2792484,
+    "goal": 2267892
   },
   {
     "date": "2024-06-15",
     "steps": 27365,
-    "progress": 531949,
-    "day": "Saturday"
+    "progress": 538295,
+    "day": "Saturday",
+    "cumulative": 2819849,
+    "goal": 2281554
   },
   {
     "date": "2024-06-16",
     "steps": 16532,
-    "progress": 534781,
-    "day": "Sunday"
+    "progress": 541165,
+    "day": "Sunday",
+    "cumulative": 2836381,
+    "goal": 2295216
   },
   {
     "date": "2024-06-17",
     "steps": 14786,
-    "progress": 535867,
-    "day": "Monday"
+    "progress": 542289,
+    "day": "Monday",
+    "cumulative": 2851167,
+    "goal": 2308878
   },
   {
     "date": "2024-06-18",
     "steps": 16524,
-    "progress": 538691,
-    "day": "Tuesday"
+    "progress": 545151,
+    "day": "Tuesday",
+    "cumulative": 2867691,
+    "goal": 2322540
   },
   {
     "date": "2024-06-19",
     "steps": 16668,
-    "progress": 541659,
-    "day": "Wednesday"
+    "progress": 548157,
+    "day": "Wednesday",
+    "cumulative": 2884359,
+    "goal": 2336202
   },
   {
     "date": "2024-06-20",
     "steps": 20396,
-    "progress": 548355,
-    "day": "Thursday"
+    "progress": 554891,
+    "day": "Thursday",
+    "cumulative": 2904755,
+    "goal": 2349864
   },
   {
     "date": "2024-06-21",
     "steps": 23813,
-    "progress": 558468,
-    "day": "Friday"
+    "progress": 565042,
+    "day": "Friday",
+    "cumulative": 2928568,
+    "goal": 2363526
   },
   {
     "date": "2024-06-22",
     "steps": 100153,
-    "progress": 644921,
-    "day": "Saturday"
+    "progress": 651533,
+    "day": "Saturday",
+    "cumulative": 3028721,
+    "goal": 2377188
   },
   {
     "date": "2024-06-23",
     "steps": 7154,
-    "progress": 638375,
-    "day": "Sunday"
+    "progress": 645025,
+    "day": "Sunday",
+    "cumulative": 3035875,
+    "goal": 2390850
   },
   {
     "date": "2024-06-24",
     "steps": 19613,
-    "progress": 644288,
-    "day": "Monday"
+    "progress": 650976,
+    "day": "Monday",
+    "cumulative": 3055488,
+    "goal": 2404512
   },
   {
     "date": "2024-06-25",
     "steps": 14477,
-    "progress": 645065,
-    "day": "Tuesday"
+    "progress": 651791,
+    "day": "Tuesday",
+    "cumulative": 3069965,
+    "goal": 2418174
   },
   {
     "date": "2024-06-26",
     "steps": 23269,
-    "progress": 654634,
-    "day": "Wednesday"
+    "progress": 661398,
+    "day": "Wednesday",
+    "cumulative": 3093234,
+    "goal": 2431836
   },
   {
     "date": "2024-06-27",
     "steps": 13166,
-    "progress": 654100,
-    "day": "Thursday"
+    "progress": 660902,
+    "day": "Thursday",
+    "cumulative": 3106400,
+    "goal": 2445498
   },
   {
     "date": "2024-06-28",
     "steps": 15822,
-    "progress": 656222,
-    "day": "Friday"
+    "progress": 663062,
+    "day": "Friday",
+    "cumulative": 3122222,
+    "goal": 2459160
   },
   {
     "date": "2024-06-29",
     "steps": 24882,
-    "progress": 667404,
-    "day": "Saturday"
+    "progress": 674282,
+    "day": "Saturday",
+    "cumulative": 3147104,
+    "goal": 2472822
   },
   {
     "date": "2024-06-30",
     "steps": 12833,
-    "progress": 666537,
-    "day": "Sunday"
+    "progress": 673453,
+    "day": "Sunday",
+    "cumulative": 3159937,
+    "goal": 2486484
   },
   {
     "date": "2024-07-01",
     "steps": 13933,
-    "progress": 666770,
-    "day": "Monday"
+    "progress": 673724,
+    "day": "Monday",
+    "cumulative": 3173870,
+    "goal": 2500146
   },
   {
     "date": "2024-07-02",
     "steps": 24171,
-    "progress": 677241,
-    "day": "Tuesday"
+    "progress": 684233,
+    "day": "Tuesday",
+    "cumulative": 3198041,
+    "goal": 2513808
   },
   {
     "date": "2024-07-03",
     "steps": 10072,
-    "progress": 673613,
-    "day": "Wednesday"
+    "progress": 680643,
+    "day": "Wednesday",
+    "cumulative": 3208113,
+    "goal": 2527470
   },
   {
     "date": "2024-07-04",
     "steps": 7858,
-    "progress": 667771,
-    "day": "Thursday"
+    "progress": 674839,
+    "day": "Thursday",
+    "cumulative": 3215971,
+    "goal": 2541132
   },
   {
     "date": "2024-07-05",
     "steps": 9526,
-    "progress": 663597,
-    "day": "Friday"
+    "progress": 670703,
+    "day": "Friday",
+    "cumulative": 3225497,
+    "goal": 2554794
   },
   {
     "date": "2024-07-06",
     "steps": 11526,
-    "progress": 661423,
-    "day": "Saturday"
+    "progress": 668567,
+    "day": "Saturday",
+    "cumulative": 3237023,
+    "goal": 2568456
   },
   {
     "date": "2024-07-07",
     "steps": 12137,
-    "progress": 659860,
-    "day": "Sunday"
+    "progress": 667042,
+    "day": "Sunday",
+    "cumulative": 3249160,
+    "goal": 2582118
   },
   {
     "date": "2024-07-08",
     "steps": 15547,
-    "progress": 661707,
-    "day": "Monday"
+    "progress": 668927,
+    "day": "Monday",
+    "cumulative": 3264707,
+    "goal": 2595780
   },
   {
     "date": "2024-07-09",
     "steps": 16781,
-    "progress": 664788,
-    "day": "Tuesday"
+    "progress": 672046,
+    "day": "Tuesday",
+    "cumulative": 3281488,
+    "goal": 2609442
   },
   {
     "date": "2024-07-10",
     "steps": 6984,
-    "progress": 658072,
-    "day": "Wednesday"
+    "progress": 665368,
+    "day": "Wednesday",
+    "cumulative": 3288472,
+    "goal": 2623104
   },
   {
     "date": "2024-07-11",
     "steps": 12943,
-    "progress": 657315,
-    "day": "Thursday"
+    "progress": 664649,
+    "day": "Thursday",
+    "cumulative": 3301415,
+    "goal": 2636766
   },
   {
     "date": "2024-07-12",
     "steps": 12999,
-    "progress": 656614,
-    "day": "Friday"
+    "progress": 663986,
+    "day": "Friday",
+    "cumulative": 3314414,
+    "goal": 2650428
   },
   {
     "date": "2024-07-13",
     "steps": 25582,
-    "progress": 668496,
-    "day": "Saturday"
+    "progress": 675906,
+    "day": "Saturday",
+    "cumulative": 3339996,
+    "goal": 2664090
   },
   {
     "date": "2024-07-14",
     "steps": 6388,
-    "progress": 661184,
-    "day": "Sunday"
+    "progress": 668632,
+    "day": "Sunday",
+    "cumulative": 3346384,
+    "goal": 2677752
   },
   {
     "date": "2024-07-15",
     "steps": 9804,
-    "progress": 657288,
-    "day": "Monday"
+    "progress": 664774,
+    "day": "Monday",
+    "cumulative": 3356188,
+    "goal": 2691414
   },
   {
     "date": "2024-07-16",
     "steps": 18659,
-    "progress": 662247,
-    "day": "Tuesday"
+    "progress": 669771,
+    "day": "Tuesday",
+    "cumulative": 3374847,
+    "goal": 2705076
   },
   {
     "date": "2024-07-17",
     "steps": 13341,
-    "progress": 661888,
-    "day": "Wednesday"
+    "progress": 669450,
+    "day": "Wednesday",
+    "cumulative": 3388188,
+    "goal": 2718738
   },
   {
     "date": "2024-07-18",
     "steps": 10886,
-    "progress": 659074,
-    "day": "Thursday"
+    "progress": 666674,
+    "day": "Thursday",
+    "cumulative": 3399074,
+    "goal": 2732400
   },
   {
     "date": "2024-07-19",
     "steps": 6616,
-    "progress": 651990,
-    "day": "Friday"
+    "progress": 659628,
+    "day": "Friday",
+    "cumulative": 3405690,
+    "goal": 2746062
   },
   {
     "date": "2024-07-20",
     "steps": 14412,
-    "progress": 652702,
-    "day": "Saturday"
+    "progress": 660378,
+    "day": "Saturday",
+    "cumulative": 3420102,
+    "goal": 2759724
   },
   {
     "date": "2024-07-21",
     "steps": 7438,
-    "progress": 646440,
-    "day": "Sunday"
+    "progress": 654154,
+    "day": "Sunday",
+    "cumulative": 3427540,
+    "goal": 2773386
   },
   {
     "date": "2024-07-22",
     "steps": 10660,
-    "progress": 643400,
-    "day": "Monday"
+    "progress": 651152,
+    "day": "Monday",
+    "cumulative": 3438200,
+    "goal": 2787048
   },
   {
     "date": "2024-07-23",
     "steps": 18746,
-    "progress": 648446,
-    "day": "Tuesday"
+    "progress": 656236,
+    "day": "Tuesday",
+    "cumulative": 3456946,
+    "goal": 2800710
   },
   {
     "date": "2024-07-24",
     "steps": 13141,
-    "progress": 647887,
-    "day": "Wednesday"
+    "progress": 655715,
+    "day": "Wednesday",
+    "cumulative": 3470087,
+    "goal": 2814372
   },
   {
     "date": "2024-07-25",
     "steps": 13717,
-    "progress": 647904,
-    "day": "Thursday"
+    "progress": 655770,
+    "day": "Thursday",
+    "cumulative": 3483804,
+    "goal": 2828034
   },
   {
     "date": "2024-07-26",
     "steps": 12075,
-    "progress": 646279,
-    "day": "Friday"
+    "progress": 654183,
+    "day": "Friday",
+    "cumulative": 3495879,
+    "goal": 2841696
   },
   {
     "date": "2024-07-27",
     "steps": 15981,
-    "progress": 648560,
-    "day": "Saturday"
+    "progress": 656502,
+    "day": "Saturday",
+    "cumulative": 3511860,
+    "goal": 2855358
   },
   {
     "date": "2024-07-28",
     "steps": 19713,
-    "progress": 654573,
-    "day": "Sunday"
+    "progress": 662553,
+    "day": "Sunday",
+    "cumulative": 3531573,
+    "goal": 2869020
   },
   {
     "date": "2024-07-29",
     "steps": 11691,
-    "progress": 652564,
-    "day": "Monday"
+    "progress": 660582,
+    "day": "Monday",
+    "cumulative": 3543264,
+    "goal": 2882682
   },
   {
     "date": "2024-07-30",
     "steps": 13713,
-    "progress": 652577,
-    "day": "Tuesday"
+    "progress": 660633,
+    "day": "Tuesday",
+    "cumulative": 3556977,
+    "goal": 2896344
   },
   {
     "date": "2024-07-31",
     "steps": 20465,
-    "progress": 659342,
-    "day": "Wednesday"
+    "progress": 667436,
+    "day": "Wednesday",
+    "cumulative": 3577442,
+    "goal": 2910006
   },
   {
     "date": "2024-08-01",
     "steps": 11681,
-    "progress": 657323,
-    "day": "Thursday"
+    "progress": 665455,
+    "day": "Thursday",
+    "cumulative": 3589123,
+    "goal": 2923668
   },
   {
     "date": "2024-08-02",
     "steps": 13973,
-    "progress": 657596,
-    "day": "Friday"
+    "progress": 665766,
+    "day": "Friday",
+    "cumulative": 3603096,
+    "goal": 2937330
   },
   {
     "date": "2024-08-03",
     "steps": 9157,
-    "progress": 653053,
-    "day": "Saturday"
+    "progress": 661261,
+    "day": "Saturday",
+    "cumulative": 3612253,
+    "goal": 2950992
   },
   {
     "date": "2024-08-04",
     "steps": 10716,
-    "progress": 650069,
-    "day": "Sunday"
+    "progress": 658315,
+    "day": "Sunday",
+    "cumulative": 3622969,
+    "goal": 2964654
   },
   {
     "date": "2024-08-05",
     "steps": 6667,
-    "progress": 643036,
-    "day": "Monday"
+    "progress": 651320,
+    "day": "Monday",
+    "cumulative": 3629636,
+    "goal": 2978316
   },
   {
     "date": "2024-08-06",
     "steps": 17604,
-    "progress": 646940,
-    "day": "Tuesday"
+    "progress": 655262,
+    "day": "Tuesday",
+    "cumulative": 3647240,
+    "goal": 2991978
   },
   {
     "date": "2024-08-07",
     "steps": 16965,
-    "progress": 650205,
-    "day": "Wednesday"
+    "progress": 658565,
+    "day": "Wednesday",
+    "cumulative": 3664205,
+    "goal": 3005640
   },
   {
     "date": "2024-08-08",
     "steps": 13590,
-    "progress": 650095,
-    "day": "Thursday"
+    "progress": 658493,
+    "day": "Thursday",
+    "cumulative": 3677795,
+    "goal": 3019302
   },
   {
     "date": "2024-08-09",
     "steps": 26757,
-    "progress": 663152,
-    "day": "Friday"
+    "progress": 671588,
+    "day": "Friday",
+    "cumulative": 3704552,
+    "goal": 3032964
   },
   {
     "date": "2024-08-10",
     "steps": 27286,
-    "progress": 676738,
-    "day": "Saturday"
+    "progress": 685212,
+    "day": "Saturday",
+    "cumulative": 3731838,
+    "goal": 3046626
   },
   {
     "date": "2024-08-11",
     "steps": 16142,
-    "progress": 679180,
-    "day": "Sunday"
+    "progress": 687692,
+    "day": "Sunday",
+    "cumulative": 3747980,
+    "goal": 3060288
   },
   {
     "date": "2024-08-12",
     "steps": 9543,
-    "progress": 675023,
-    "day": "Monday"
+    "progress": 683573,
+    "day": "Monday",
+    "cumulative": 3757523,
+    "goal": 3073950
   },
   {
     "date": "2024-08-13",
     "steps": 15012,
-    "progress": 676335,
-    "day": "Tuesday"
+    "progress": 684923,
+    "day": "Tuesday",
+    "cumulative": 3772535,
+    "goal": 3087612
   },
   {
     "date": "2024-08-14",
     "steps": 11361,
-    "progress": 673996,
-    "day": "Wednesday"
+    "progress": 682622,
+    "day": "Wednesday",
+    "cumulative": 3783896,
+    "goal": 3101274
   },
   {
     "date": "2024-08-15",
     "steps": 7383,
-    "progress": 667679,
-    "day": "Thursday"
+    "progress": 676343,
+    "day": "Thursday",
+    "cumulative": 3791279,
+    "goal": 3114936
   },
   {
     "date": "2024-08-16",
     "steps": 18315,
-    "progress": 672294,
-    "day": "Friday"
+    "progress": 680996,
+    "day": "Friday",
+    "cumulative": 3809594,
+    "goal": 3128598
   },
   {
     "date": "2024-08-17",
     "steps": 57235,
-    "progress": 715829,
-    "day": "Saturday"
+    "progress": 724569,
+    "day": "Saturday",
+    "cumulative": 3866829,
+    "goal": 3142260
   },
   {
     "date": "2024-08-18",
     "steps": 7526,
-    "progress": 709655,
-    "day": "Sunday"
+    "progress": 718433,
+    "day": "Sunday",
+    "cumulative": 3874355,
+    "goal": 3155922
   },
   {
     "date": "2024-08-19",
     "steps": 6825,
-    "progress": 702780,
-    "day": "Monday"
+    "progress": 711596,
+    "day": "Monday",
+    "cumulative": 3881180,
+    "goal": 3169584
   },
   {
     "date": "2024-08-20",
     "steps": 13887,
-    "progress": 702967,
-    "day": "Tuesday"
+    "progress": 711821,
+    "day": "Tuesday",
+    "cumulative": 3895067,
+    "goal": 3183246
   },
   {
     "date": "2024-08-21",
     "steps": 14989,
-    "progress": 704256,
-    "day": "Wednesday"
+    "progress": 713148,
+    "day": "Wednesday",
+    "cumulative": 3910056,
+    "goal": 3196908
   },
   {
     "date": "2024-08-22",
     "steps": 15068,
-    "progress": 705624,
-    "day": "Thursday"
+    "progress": 714554,
+    "day": "Thursday",
+    "cumulative": 3925124,
+    "goal": 3210570
   },
   {
     "date": "2024-08-23",
     "steps": 13995,
-    "progress": 705919,
-    "day": "Friday"
+    "progress": 714887,
+    "day": "Friday",
+    "cumulative": 3939119,
+    "goal": 3224232
   },
   {
     "date": "2024-08-24",
     "steps": 8343,
-    "progress": 700562,
-    "day": "Saturday"
+    "progress": 709568,
+    "day": "Saturday",
+    "cumulative": 3947462,
+    "goal": 3237894
   },
   {
     "date": "2024-08-25",
     "steps": 10804,
-    "progress": 697666,
-    "day": "Sunday"
+    "progress": 706710,
+    "day": "Sunday",
+    "cumulative": 3958266,
+    "goal": 3251556
   },
   {
     "date": "2024-08-26",
     "steps": 11268,
-    "progress": 695234,
-    "day": "Monday"
+    "progress": 704316,
+    "day": "Monday",
+    "cumulative": 3969534,
+    "goal": 3265218
   },
   {
     "date": "2024-08-27",
     "steps": 16338,
-    "progress": 697872,
-    "day": "Tuesday"
+    "progress": 706992,
+    "day": "Tuesday",
+    "cumulative": 3985872,
+    "goal": 3278880
   },
   {
     "date": "2024-08-28",
     "steps": 13274,
-    "progress": 697446,
-    "day": "Wednesday"
+    "progress": 706604,
+    "day": "Wednesday",
+    "cumulative": 3999146,
+    "goal": 3292542
   },
   {
     "date": "2024-08-29",
     "steps": 15116,
-    "progress": 698862,
-    "day": "Thursday"
+    "progress": 708058,
+    "day": "Thursday",
+    "cumulative": 4014262,
+    "goal": 3306204
   },
   {
     "date": "2024-08-30",
     "steps": 14723,
-    "progress": 699885,
-    "day": "Friday"
+    "progress": 709119,
+    "day": "Friday",
+    "cumulative": 4028985,
+    "goal": 3319866
   },
   {
     "date": "2024-08-31",
     "steps": 14379,
-    "progress": 700564,
-    "day": "Saturday"
+    "progress": 709836,
+    "day": "Saturday",
+    "cumulative": 4043364,
+    "goal": 3333528
   },
   {
     "date": "2024-09-01",
     "steps": 13827,
-    "progress": 700691,
-    "day": "Sunday"
+    "progress": 710001,
+    "day": "Sunday",
+    "cumulative": 4057191,
+    "goal": 3347190
   },
   {
     "date": "2024-09-02",
     "steps": 16565,
-    "progress": 703556,
-    "day": "Monday"
+    "progress": 712904,
+    "day": "Monday",
+    "cumulative": 4073756,
+    "goal": 3360852
   },
   {
     "date": "2024-09-03",
     "steps": 15224,
-    "progress": 705080,
-    "day": "Tuesday"
+    "progress": 714466,
+    "day": "Tuesday",
+    "cumulative": 4088980,
+    "goal": 3374514
   },
   {
     "date": "2024-09-04",
     "steps": 17120,
-    "progress": 708500,
-    "day": "Wednesday"
+    "progress": 717924,
+    "day": "Wednesday",
+    "cumulative": 4106100,
+    "goal": 3388176
   },
   {
     "date": "2024-09-05",
     "steps": 14916,
-    "progress": 709716,
-    "day": "Thursday"
+    "progress": 719178,
+    "day": "Thursday",
+    "cumulative": 4121016,
+    "goal": 3401838
   },
   {
     "date": "2024-09-06",
     "steps": 15624,
-    "progress": 711640,
-    "day": "Friday"
+    "progress": 721140,
+    "day": "Friday",
+    "cumulative": 4136640,
+    "goal": 3415500
   },
   {
     "date": "2024-09-07",
     "steps": 15650,
-    "progress": 713590,
-    "day": "Saturday"
+    "progress": 723128,
+    "day": "Saturday",
+    "cumulative": 4152290,
+    "goal": 3429162
   },
   {
     "date": "2024-09-08",
     "steps": 5707,
-    "progress": 705597,
-    "day": "Sunday"
+    "progress": 715173,
+    "day": "Sunday",
+    "cumulative": 4157997,
+    "goal": 3442824
   },
   {
     "date": "2024-09-09",
     "steps": 14735,
-    "progress": 706632,
-    "day": "Monday"
+    "progress": 716246,
+    "day": "Monday",
+    "cumulative": 4172732,
+    "goal": 3456486
   },
   {
     "date": "2024-09-10",
     "steps": 9189,
-    "progress": 702121,
-    "day": "Tuesday"
+    "progress": 711773,
+    "day": "Tuesday",
+    "cumulative": 4181921,
+    "goal": 3470148
   },
   {
     "date": "2024-09-11",
     "steps": 6732,
-    "progress": 695153,
-    "day": "Wednesday"
+    "progress": 704843,
+    "day": "Wednesday",
+    "cumulative": 4188653,
+    "goal": 3483810
   },
   {
     "date": "2024-09-12",
     "steps": 11590,
-    "progress": 693043,
-    "day": "Thursday"
+    "progress": 702771,
+    "day": "Thursday",
+    "cumulative": 4200243,
+    "goal": 3497472
   },
   {
     "date": "2024-09-13",
     "steps": 15540,
-    "progress": 694883,
-    "day": "Friday"
+    "progress": 704649,
+    "day": "Friday",
+    "cumulative": 4215783,
+    "goal": 3511134
   },
   {
     "date": "2024-09-14",
     "steps": 31883,
-    "progress": 713066,
-    "day": "Saturday"
+    "progress": 722870,
+    "day": "Saturday",
+    "cumulative": 4247666,
+    "goal": 3524796
   },
   {
     "date": "2024-09-15",
     "steps": 7335,
-    "progress": 706701,
-    "day": "Sunday"
+    "progress": 716543,
+    "day": "Sunday",
+    "cumulative": 4255001,
+    "goal": 3538458
   },
   {
     "date": "2024-09-16",
     "steps": 13741,
-    "progress": 706742,
-    "day": "Monday"
+    "progress": 716622,
+    "day": "Monday",
+    "cumulative": 4268742,
+    "goal": 3552120
   },
   {
     "date": "2024-09-17",
     "steps": 13524,
-    "progress": 706566,
-    "day": "Tuesday"
+    "progress": 716484,
+    "day": "Tuesday",
+    "cumulative": 4282266,
+    "goal": 3565782
   },
   {
     "date": "2024-09-18",
     "steps": 12393,
-    "progress": 705259,
-    "day": "Wednesday"
+    "progress": 715215,
+    "day": "Wednesday",
+    "cumulative": 4294659,
+    "goal": 3579444
   },
   {
     "date": "2024-09-19",
     "steps": 14810,
-    "progress": 706369,
-    "day": "Thursday"
+    "progress": 716363,
+    "day": "Thursday",
+    "cumulative": 4309469,
+    "goal": 3593106
   },
   {
     "date": "2024-09-20",
     "steps": 17238,
-    "progress": 709907,
-    "day": "Friday"
+    "progress": 719939,
+    "day": "Friday",
+    "cumulative": 4326707,
+    "goal": 3606768
   },
   {
     "date": "2024-09-21",
     "steps": 5574,
-    "progress": 701781,
-    "day": "Saturday"
+    "progress": 711851,
+    "day": "Saturday",
+    "cumulative": 4332281,
+    "goal": 3620430
   },
   {
     "date": "2024-09-22",
     "steps": 3509,
-    "progress": 691590,
-    "day": "Sunday"
+    "progress": 701698,
+    "day": "Sunday",
+    "cumulative": 4335790,
+    "goal": 3634092
   },
   {
     "date": "2024-09-23",
     "steps": 5360,
-    "progress": 683250,
-    "day": "Monday"
+    "progress": 693396,
+    "day": "Monday",
+    "cumulative": 4341150,
+    "goal": 3647754
   },
   {
     "date": "2024-09-24",
     "steps": 10819,
-    "progress": 680369,
-    "day": "Tuesday"
+    "progress": 690553,
+    "day": "Tuesday",
+    "cumulative": 4351969,
+    "goal": 3661416
   },
   {
     "date": "2024-09-25",
     "steps": 4825,
-    "progress": 671494,
-    "day": "Wednesday"
+    "progress": 681716,
+    "day": "Wednesday",
+    "cumulative": 4356794,
+    "goal": 3675078
   },
   {
     "date": "2024-09-26",
     "steps": 7819,
-    "progress": 665613,
-    "day": "Thursday"
+    "progress": 675873,
+    "day": "Thursday",
+    "cumulative": 4364613,
+    "goal": 3688740
   },
   {
     "date": "2024-09-27",
     "steps": 16566,
-    "progress": 668479,
-    "day": "Friday"
+    "progress": 678777,
+    "day": "Friday",
+    "cumulative": 4381179,
+    "goal": 3702402
   },
   {
     "date": "2024-09-28",
     "steps": 14104,
-    "progress": 668883,
-    "day": "Saturday"
+    "progress": 679219,
+    "day": "Saturday",
+    "cumulative": 4395283,
+    "goal": 3716064
   },
   {
     "date": "2024-09-29",
     "steps": 5485,
-    "progress": 660668,
-    "day": "Sunday"
+    "progress": 671042,
+    "day": "Sunday",
+    "cumulative": 4400768,
+    "goal": 3729726
   },
   {
     "date": "2024-09-30",
     "steps": 5907,
-    "progress": 652875,
-    "day": "Monday"
+    "progress": 663287,
+    "day": "Monday",
+    "cumulative": 4406675,
+    "goal": 3743388
   },
   {
     "date": "2024-10-01",
     "steps": 3246,
-    "progress": 642421,
-    "day": "Tuesday"
+    "progress": 652871,
+    "day": "Tuesday",
+    "cumulative": 4409921,
+    "goal": 3757050
   },
   {
     "date": "2024-10-02",
     "steps": 11444,
-    "progress": 640165,
-    "day": "Wednesday"
+    "progress": 650653,
+    "day": "Wednesday",
+    "cumulative": 4421365,
+    "goal": 3770712
   },
   {
     "date": "2024-10-03",
     "steps": 14064,
-    "progress": 640529,
-    "day": "Thursday"
+    "progress": 651055,
+    "day": "Thursday",
+    "cumulative": 4435429,
+    "goal": 3784374
   },
   {
     "date": "2024-10-04",
     "steps": 11133,
-    "progress": 637962,
-    "day": "Friday"
+    "progress": 648526,
+    "day": "Friday",
+    "cumulative": 4446562,
+    "goal": 3798036
   },
   {
     "date": "2024-10-05",
     "steps": 12156,
-    "progress": 636418,
-    "day": "Saturday"
+    "progress": 647020,
+    "day": "Saturday",
+    "cumulative": 4458718,
+    "goal": 3811698
   },
   {
     "date": "2024-10-06",
     "steps": 5759,
-    "progress": 628477,
-    "day": "Sunday"
+    "progress": 639117,
+    "day": "Sunday",
+    "cumulative": 4464477,
+    "goal": 3825360
   },
   {
     "date": "2024-10-07",
     "steps": 9421,
-    "progress": 624198,
-    "day": "Monday"
+    "progress": 634876,
+    "day": "Monday",
+    "cumulative": 4473898,
+    "goal": 3839022
   },
   {
     "date": "2024-10-08",
     "steps": 12417,
-    "progress": 622915,
-    "day": "Tuesday"
+    "progress": 633631,
+    "day": "Tuesday",
+    "cumulative": 4486315,
+    "goal": 3852684
   },
   {
     "date": "2024-10-09",
     "steps": 11019,
-    "progress": 620234,
-    "day": "Wednesday"
+    "progress": 630988,
+    "day": "Wednesday",
+    "cumulative": 4497334,
+    "goal": 3866346
   },
   {
     "date": "2024-10-10",
     "steps": 13132,
-    "progress": 619666,
-    "day": "Thursday"
+    "progress": 630458,
+    "day": "Thursday",
+    "cumulative": 4510466,
+    "goal": 3880008
   },
   {
     "date": "2024-10-11",
     "steps": 18971,
-    "progress": 624937,
-    "day": "Friday"
+    "progress": 635767,
+    "day": "Friday",
+    "cumulative": 4529437,
+    "goal": 3893670
   },
   {
     "date": "2024-10-12",
     "steps": 8115,
-    "progress": 619352,
-    "day": "Saturday"
+    "progress": 630220,
+    "day": "Saturday",
+    "cumulative": 4537552,
+    "goal": 3907332
   },
   {
     "date": "2024-10-13",
     "steps": 13616,
-    "progress": 619268,
-    "day": "Sunday"
+    "progress": 630174,
+    "day": "Sunday",
+    "cumulative": 4551168,
+    "goal": 3920994
   },
   {
     "date": "2024-10-14",
     "steps": 15271,
-    "progress": 620839,
-    "day": "Monday"
+    "progress": 631783,
+    "day": "Monday",
+    "cumulative": 4566439,
+    "goal": 3934656
   },
   {
     "date": "2024-10-15",
     "steps": 13727,
-    "progress": 620866,
-    "day": "Tuesday"
+    "progress": 631848,
+    "day": "Tuesday",
+    "cumulative": 4580166,
+    "goal": 3948318
   },
   {
     "date": "2024-10-16",
     "steps": 13752,
-    "progress": 620918,
-    "day": "Wednesday"
+    "progress": 631938,
+    "day": "Wednesday",
+    "cumulative": 4593918,
+    "goal": 3961980
   },
   {
     "date": "2024-10-17",
     "steps": 15281,
-    "progress": 622499,
-    "day": "Thursday"
+    "progress": 633557,
+    "day": "Thursday",
+    "cumulative": 4609199,
+    "goal": 3975642
   },
   {
     "date": "2024-10-18",
     "steps": 13267,
-    "progress": 622066,
-    "day": "Friday"
+    "progress": 633162,
+    "day": "Friday",
+    "cumulative": 4622466,
+    "goal": 3989304
   },
   {
     "date": "2024-10-19",
     "steps": 15796,
-    "progress": 624162,
-    "day": "Saturday"
+    "progress": 635296,
+    "day": "Saturday",
+    "cumulative": 4638262,
+    "goal": 4002966
   },
   {
     "date": "2024-10-20",
     "steps": 13989,
-    "progress": 624451,
-    "day": "Sunday"
+    "progress": 635623,
+    "day": "Sunday",
+    "cumulative": 4652251,
+    "goal": 4016628
   },
   {
     "date": "2024-10-21",
     "steps": 13785,
-    "progress": 624536,
-    "day": "Monday"
+    "progress": 635746,
+    "day": "Monday",
+    "cumulative": 4666036,
+    "goal": 4030290
   },
   {
     "date": "2024-10-22",
     "steps": 14029,
-    "progress": 624865,
-    "day": "Tuesday"
+    "progress": 636113,
+    "day": "Tuesday",
+    "cumulative": 4680065,
+    "goal": 4043952
   },
   {
     "date": "2024-10-23",
     "steps": 15583,
-    "progress": 626748,
-    "day": "Wednesday"
+    "progress": 638034,
+    "day": "Wednesday",
+    "cumulative": 4695648,
+    "goal": 4057614
   },
   {
     "date": "2024-10-24",
     "steps": 15978,
-    "progress": 629026,
-    "day": "Thursday"
+    "progress": 640350,
+    "day": "Thursday",
+    "cumulative": 4711626,
+    "goal": 4071276
   },
   {
     "date": "2024-10-25",
     "steps": 10327,
-    "progress": 625653,
-    "day": "Friday"
+    "progress": 637015,
+    "day": "Friday",
+    "cumulative": 4721953,
+    "goal": 4084938
   },
   {
     "date": "2024-10-26",
     "steps": 14078,
-    "progress": 626031,
-    "day": "Saturday"
+    "progress": 637431,
+    "day": "Saturday",
+    "cumulative": 4736031,
+    "goal": 4098600
   },
   {
     "date": "2024-10-27",
     "steps": 33960,
-    "progress": 646291,
-    "day": "Sunday"
+    "progress": 657729,
+    "day": "Sunday",
+    "cumulative": 4769991,
+    "goal": 4112262
   },
   {
     "date": "2024-10-28",
     "steps": 14138,
-    "progress": 646729,
-    "day": "Monday"
+    "progress": 658205,
+    "day": "Monday",
+    "cumulative": 4784129,
+    "goal": 4125924
   },
   {
     "date": "2024-10-29",
     "steps": 13737,
-    "progress": 646766,
-    "day": "Tuesday"
+    "progress": 658280,
+    "day": "Tuesday",
+    "cumulative": 4797866,
+    "goal": 4139586
   },
   {
     "date": "2024-10-30",
     "steps": 15584,
-    "progress": 648650,
-    "day": "Wednesday"
+    "progress": 660202,
+    "day": "Wednesday",
+    "cumulative": 4813450,
+    "goal": 4153248
   },
   {
     "date": "2024-10-31",
     "steps": 12791,
-    "progress": 647741,
-    "day": "Thursday"
+    "progress": 659331,
+    "day": "Thursday",
+    "cumulative": 4826241,
+    "goal": 4166910
   },
   {
     "date": "2024-11-01",
     "steps": 16155,
-    "progress": 650196,
-    "day": "Friday"
+    "progress": 661824,
+    "day": "Friday",
+    "cumulative": 4842396,
+    "goal": 4180572
   },
   {
     "date": "2024-11-02",
     "steps": 23755,
-    "progress": 660251,
-    "day": "Saturday"
+    "progress": 671917,
+    "day": "Saturday",
+    "cumulative": 4866151,
+    "goal": 4194234
   },
   {
     "date": "2024-11-03",
     "steps": 7924,
-    "progress": 654475,
-    "day": "Sunday"
+    "progress": 666179,
+    "day": "Sunday",
+    "cumulative": 4874075,
+    "goal": 4207896
   },
   {
     "date": "2024-11-04",
     "steps": 9667,
-    "progress": 650442,
-    "day": "Monday"
+    "progress": 662184,
+    "day": "Monday",
+    "cumulative": 4883742,
+    "goal": 4221558
   },
   {
     "date": "2024-11-05",
     "steps": 14100,
-    "progress": 650842,
-    "day": "Tuesday"
+    "progress": 662622,
+    "day": "Tuesday",
+    "cumulative": 4897842,
+    "goal": 4235220
   },
   {
     "date": "2024-11-06",
     "steps": 17307,
-    "progress": 654449,
-    "day": "Wednesday"
+    "progress": 666267,
+    "day": "Wednesday",
+    "cumulative": 4915149,
+    "goal": 4248882
   },
   {
     "date": "2024-11-07",
     "steps": 14217,
-    "progress": 654966,
-    "day": "Thursday"
+    "progress": 666822,
+    "day": "Thursday",
+    "cumulative": 4929366,
+    "goal": 4262544
   },
   {
     "date": "2024-11-08",
     "steps": 13861,
-    "progress": 655127,
-    "day": "Friday"
+    "progress": 667021,
+    "day": "Friday",
+    "cumulative": 4943227,
+    "goal": 4276206
   },
   {
     "date": "2024-11-09",
     "steps": 15442,
-    "progress": 656869,
-    "day": "Saturday"
+    "progress": 668801,
+    "day": "Saturday",
+    "cumulative": 4958669,
+    "goal": 4289868
   },
   {
     "date": "2024-11-10",
     "steps": 15509,
-    "progress": 658678,
-    "day": "Sunday"
+    "progress": 670648,
+    "day": "Sunday",
+    "cumulative": 4974178,
+    "goal": 4303530
   },
   {
     "date": "2024-11-11",
     "steps": 13929,
-    "progress": 658907,
-    "day": "Monday"
+    "progress": 670915,
+    "day": "Monday",
+    "cumulative": 4988107,
+    "goal": 4317192
   },
   {
     "date": "2024-11-12",
     "steps": 14192,
-    "progress": 659399,
-    "day": "Tuesday"
+    "progress": 671445,
+    "day": "Tuesday",
+    "cumulative": 5002299,
+    "goal": 4330854
   },
   {
     "date": "2024-11-13",
     "steps": 19420,
-    "progress": 665119,
-    "day": "Wednesday"
+    "progress": 677203,
+    "day": "Wednesday",
+    "cumulative": 5021719,
+    "goal": 4344516
   },
   {
     "date": "2024-11-14",
     "steps": 15492,
-    "progress": 666911,
-    "day": "Thursday"
+    "progress": 679033,
+    "day": "Thursday",
+    "cumulative": 5037211,
+    "goal": 4358178
   },
   {
     "date": "2024-11-15",
     "steps": 17312,
-    "progress": 670523,
-    "day": "Friday"
+    "progress": 682683,
+    "day": "Friday",
+    "cumulative": 5054523,
+    "goal": 4371840
   },
   {
     "date": "2024-11-16",
     "steps": 5424,
-    "progress": 662247,
-    "day": "Saturday"
+    "progress": 674445,
+    "day": "Saturday",
+    "cumulative": 5059947,
+    "goal": 4385502
   },
   {
     "date": "2024-11-17",
     "steps": 6411,
-    "progress": 654958,
-    "day": "Sunday"
+    "progress": 667194,
+    "day": "Sunday",
+    "cumulative": 5066358,
+    "goal": 4399164
   },
   {
     "date": "2024-11-18",
     "steps": 5792,
-    "progress": 647050,
-    "day": "Monday"
+    "progress": 659324,
+    "day": "Monday",
+    "cumulative": 5072150,
+    "goal": 4412826
   },
   {
     "date": "2024-11-19",
     "steps": 12370,
-    "progress": 645720,
-    "day": "Tuesday"
+    "progress": 658032,
+    "day": "Tuesday",
+    "cumulative": 5084520,
+    "goal": 4426488
   },
   {
     "date": "2024-11-20",
     "steps": 15791,
-    "progress": 647811,
-    "day": "Wednesday"
+    "progress": 660161,
+    "day": "Wednesday",
+    "cumulative": 5100311,
+    "goal": 4440150
   },
   {
     "date": "2024-11-21",
     "steps": 15258,
-    "progress": 649369,
-    "day": "Thursday"
+    "progress": 661757,
+    "day": "Thursday",
+    "cumulative": 5115569,
+    "goal": 4453812
   },
   {
     "date": "2024-11-22",
     "steps": 19085,
-    "progress": 654754,
-    "day": "Friday"
+    "progress": 667180,
+    "day": "Friday",
+    "cumulative": 5134654,
+    "goal": 4467474
   },
   {
     "date": "2024-11-23",
     "steps": 4781,
-    "progress": 645835,
-    "day": "Saturday"
+    "progress": 658299,
+    "day": "Saturday",
+    "cumulative": 5139435,
+    "goal": 4481136
   },
   {
     "date": "2024-11-24",
     "steps": 3477,
-    "progress": 635612,
-    "day": "Sunday"
+    "progress": 648114,
+    "day": "Sunday",
+    "cumulative": 5142912,
+    "goal": 4494798
   },
   {
     "date": "2024-11-25",
     "steps": 12406,
-    "progress": 634318,
-    "day": "Monday"
+    "progress": 646858,
+    "day": "Monday",
+    "cumulative": 5155318,
+    "goal": 4508460
   },
   {
     "date": "2024-11-26",
     "steps": 18619,
-    "progress": 639237,
-    "day": "Tuesday"
+    "progress": 651815,
+    "day": "Tuesday",
+    "cumulative": 5173937,
+    "goal": 4522122
   },
   {
     "date": "2024-11-27",
     "steps": 19756,
-    "progress": 645293,
-    "day": "Wednesday"
+    "progress": 657909,
+    "day": "Wednesday",
+    "cumulative": 5193693,
+    "goal": 4535784
   },
   {
     "date": "2024-11-28",
     "steps": 14390,
-    "progress": 645983,
-    "day": "Thursday"
+    "progress": 658637,
+    "day": "Thursday",
+    "cumulative": 5208083,
+    "goal": 4549446
   },
   {
     "date": "2024-11-29",
     "steps": 16188,
-    "progress": 648471,
-    "day": "Friday"
+    "progress": 661163,
+    "day": "Friday",
+    "cumulative": 5224271,
+    "goal": 4563108
   },
   {
     "date": "2024-11-30",
     "steps": 14027,
-    "progress": 648798,
-    "day": "Saturday"
+    "progress": 661528,
+    "day": "Saturday",
+    "cumulative": 5238298,
+    "goal": 4576770
   },
   {
     "date": "2024-12-01",
     "steps": 5388,
-    "progress": 640486,
-    "day": "Sunday"
+    "progress": 653254,
+    "day": "Sunday",
+    "cumulative": 5243686,
+    "goal": 4590432
   },
   {
     "date": "2024-12-02",
     "steps": 4734,
-    "progress": 631520,
-    "day": "Monday"
+    "progress": 644326,
+    "day": "Monday",
+    "cumulative": 5248420,
+    "goal": 4604094
   },
   {
     "date": "2024-12-03",
     "steps": 13769,
-    "progress": 631589,
-    "day": "Tuesday"
+    "progress": 644433,
+    "day": "Tuesday",
+    "cumulative": 5262189,
+    "goal": 4617756
   },
   {
     "date": "2024-12-04",
     "steps": 17792,
-    "progress": 635681,
-    "day": "Wednesday"
+    "progress": 648563,
+    "day": "Wednesday",
+    "cumulative": 5279981,
+    "goal": 4631418
   },
   {
     "date": "2024-12-05",
     "steps": 12342,
-    "progress": 634323,
-    "day": "Thursday"
+    "progress": 647243,
+    "day": "Thursday",
+    "cumulative": 5292323,
+    "goal": 4645080
   },
   {
     "date": "2024-12-06",
     "steps": 21691,
-    "progress": 642314,
-    "day": "Friday"
+    "progress": 655272,
+    "day": "Friday",
+    "cumulative": 5314014,
+    "goal": 4658742
   },
   {
     "date": "2024-12-07",
     "steps": 12235,
-    "progress": 640849,
-    "day": "Saturday"
+    "progress": 653845,
+    "day": "Saturday",
+    "cumulative": 5326249,
+    "goal": 4672404
   },
   {
     "date": "2024-12-08",
     "steps": 3302,
-    "progress": 630451,
-    "day": "Sunday"
+    "progress": 643485,
+    "day": "Sunday",
+    "cumulative": 5329551,
+    "goal": 4686066
   },
   {
     "date": "2024-12-09",
     "steps": 7616,
-    "progress": 624367,
-    "day": "Monday"
+    "progress": 637439,
+    "day": "Monday",
+    "cumulative": 5337167,
+    "goal": 4699728
   },
   {
     "date": "2024-12-10",
     "steps": 12791,
-    "progress": 623458,
-    "day": "Tuesday"
+    "progress": 636568,
+    "day": "Tuesday",
+    "cumulative": 5349958,
+    "goal": 4713390
   },
   {
     "date": "2024-12-11",
     "steps": 18157,
-    "progress": 627915,
-    "day": "Wednesday"
+    "progress": 641063,
+    "day": "Wednesday",
+    "cumulative": 5368115,
+    "goal": 4727052
   },
   {
     "date": "2024-12-12",
     "steps": 7622,
-    "progress": 621837,
-    "day": "Thursday"
+    "progress": 635023,
+    "day": "Thursday",
+    "cumulative": 5375737,
+    "goal": 4740714
   },
   {
     "date": "2024-12-13",
     "steps": 16591,
-    "progress": 624728,
-    "day": "Friday"
+    "progress": 637952,
+    "day": "Friday",
+    "cumulative": 5392328,
+    "goal": 4754376
   },
   {
     "date": "2024-12-14",
     "steps": 20894,
-    "progress": 631922,
-    "day": "Saturday"
+    "progress": 645184,
+    "day": "Saturday",
+    "cumulative": 5413222,
+    "goal": 4768038
   },
   {
     "date": "2024-12-15",
     "steps": 5935,
-    "progress": 624157,
-    "day": "Sunday"
+    "progress": 637457,
+    "day": "Sunday",
+    "cumulative": 5419157,
+    "goal": 4781700
   },
   {
     "date": "2024-12-16",
     "steps": 7515,
-    "progress": 617972,
-    "day": "Monday"
+    "progress": 631310,
+    "day": "Monday",
+    "cumulative": 5426672,
+    "goal": 4795362
   },
   {
     "date": "2024-12-17",
     "steps": 17297,
-    "progress": 621569,
-    "day": "Tuesday"
+    "progress": 634945,
+    "day": "Tuesday",
+    "cumulative": 5443969,
+    "goal": 4809024
   },
   {
     "date": "2024-12-18",
     "steps": 22974,
-    "progress": 630843,
-    "day": "Wednesday"
+    "progress": 644257,
+    "day": "Wednesday",
+    "cumulative": 5466943,
+    "goal": 4822686
   },
   {
     "date": "2024-12-19",
     "steps": 8342,
-    "progress": 625485,
-    "day": "Thursday"
+    "progress": 638937,
+    "day": "Thursday",
+    "cumulative": 5475285,
+    "goal": 4836348
   },
   {
     "date": "2024-12-20",
     "steps": 6901,
-    "progress": 618686,
-    "day": "Friday"
+    "progress": 632176,
+    "day": "Friday",
+    "cumulative": 5482186,
+    "goal": 4850010
   },
   {
     "date": "2024-12-21",
     "steps": 7287,
-    "progress": 612273,
-    "day": "Saturday"
+    "progress": 625801,
+    "day": "Saturday",
+    "cumulative": 5489473,
+    "goal": 4863672
   },
   {
     "date": "2024-12-22",
     "steps": 3435,
-    "progress": 602008,
-    "day": "Sunday"
+    "progress": 615574,
+    "day": "Sunday",
+    "cumulative": 5492908,
+    "goal": 4877334
   },
   {
     "date": "2024-12-23",
     "steps": 10285,
-    "progress": 598593,
-    "day": "Monday"
+    "progress": 612197,
+    "day": "Monday",
+    "cumulative": 5503193,
+    "goal": 4890996
   },
   {
     "date": "2024-12-24",
     "steps": 16863,
-    "progress": 601756,
-    "day": "Tuesday"
+    "progress": 615398,
+    "day": "Tuesday",
+    "cumulative": 5520056,
+    "goal": 4904658
   },
   {
     "date": "2024-12-25",
     "steps": 5518,
-    "progress": 593574,
-    "day": "Wednesday"
+    "progress": 607254,
+    "day": "Wednesday",
+    "cumulative": 5525574,
+    "goal": 4918320
   },
   {
     "date": "2024-12-26",
     "steps": 3466,
-    "progress": 583340,
-    "day": "Thursday"
+    "progress": 597058,
+    "day": "Thursday",
+    "cumulative": 5529040,
+    "goal": 4931982
   },
   {
     "date": "2024-12-27",
     "steps": 5324,
-    "progress": 574964,
-    "day": "Friday"
+    "progress": 588720,
+    "day": "Friday",
+    "cumulative": 5534364,
+    "goal": 4945644
   },
   {
     "date": "2024-12-28",
     "steps": 15690,
-    "progress": 576954,
-    "day": "Saturday"
+    "progress": 590748,
+    "day": "Saturday",
+    "cumulative": 5550054,
+    "goal": 4959306
   },
   {
     "date": "2024-12-29",
     "steps": 10027,
-    "progress": 573281,
-    "day": "Sunday"
+    "progress": 587113,
+    "day": "Sunday",
+    "cumulative": 5560081,
+    "goal": 4972968
   },
   {
     "date": "2024-12-30",
     "steps": 20079,
-    "progress": 579660,
-    "day": "Monday"
+    "progress": 593530,
+    "day": "Monday",
+    "cumulative": 5580160,
+    "goal": 4986630
   },
   {
     "date": "2024-12-31",
     "steps": 5079,
-    "progress": 571039,
-    "day": "Tuesday"
+    "progress": 584947,
+    "day": "Tuesday",
+    "cumulative": 5585239,
+    "goal": 5000292
   }
 ]
