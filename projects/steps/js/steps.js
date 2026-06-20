@@ -15,31 +15,35 @@ const milestones =
 id: "100k-day",
 title: "100k Step Day",
 date: "2024-06-21",
-// value: 644921,
 value: 610000,
-
-type: "point"
+type: "point",
+description: "I walked 100k steps in one day to earn the 'Olympic Sandals' FitBit badge"
 },
 {
 id: "halfway",
 title: "Half Way",
 date: "2024-05-31",
 value: 419024,
-type: "milestone"
+type: "milestone",
+description: "2.5m steps walked on 31 May, 419k steps ahead of target"
+
 },
 {
 id: "five-million",
 title: "5 Million Reached!",
 date: "2024-11-12",
 value: 659399,
-type: "milestone"
+type: "milestone",
+description: "Completed! 5m steps walked on 12 Nov, 659k steps ahead of target"
+
 },
 {
 id: "final",
 title: "Final Count",
 date: "2024-12-31",
 value:571039,
-type: "milestone"
+type: "milestone",
+description: "Final step count: 5.58m steps, 571k ahead of target"
 }];
 
 // SVG Dimensions ---------------------------------------------------------------------
@@ -74,10 +78,11 @@ svg.append("line")
 .attr("x2", x)
 .attr("y1", yScale(topGridLine))
 .attr("y2", yScale(0))
-// .attr("stroke", "#d4af37")
 .attr("stroke", "#5f7a61")
-
 .attr("stroke-width", 3)
+.attr("opacity", 0)
+.transition()
+.duration(600)
 .attr("opacity", 0.75);
 }
 if (d.type === "point") {
@@ -89,12 +94,24 @@ svg.append("circle")
 .attr("r", 35)
 .attr("stroke", "#c9a86a")
 .attr("fill", "none")
-.attr("stroke-width", 1);
+.attr("stroke-width", 1)
+.attr("opacity", 0)
+.transition()
+.duration(600)
+.attr("opacity", 1);
 }
 })
 .on("mouseout", () => {
-svg.selectAll(".test-line").remove();
-svg.selectAll(".test-circle").remove();
+svg.selectAll(".test-line")
+.transition()
+.duration(300)
+.attr("opacity", 0)
+.remove();
+svg.selectAll(".test-circle")
+.transition()
+.duration(300)
+.attr("opacity", 0)
+.remove();
 });
 
 // Append SVG ---------------------------------------------------------------------
