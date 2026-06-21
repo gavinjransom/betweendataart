@@ -29,7 +29,7 @@ description: "100k steps in one day to earn the 'Olympic Sandals' FitBit badge"
 },
 {
 id: "five-million",
-title: "5 Million Reached!",
+title: "5 Million Steps",
 date: "2024-11-12",
 value: 659399,
 type: "milestone",
