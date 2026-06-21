@@ -74,7 +74,7 @@ d3.select(".milestone-description")
 if (d.type === "milestone") {
 const x = xScale(new Date(d.date));
 svg.append("line")
-.attr("class", "test-line")
+.attr("class", "milestone-line")
 .attr("x1", x)
 .attr("x2", x)
 .attr("y1", yScale(topGridLine))
@@ -89,7 +89,7 @@ svg.append("line")
 if (d.type === "point") {
 const x = xScale(new Date(d.date));
 svg.append("circle")
-.attr("class", "test-circle")
+.attr("class", "milestone-circle")
 .attr("cx", x)
 .attr("cy", yScale(d.value))
 .attr("r", 35)
@@ -105,12 +105,12 @@ svg.append("circle")
 .on("mouseout", () => {
 d3.select(".milestone-description")
 .text("");
-svg.selectAll(".test-line")
+svg.selectAll(".milestone-line")
 .transition()
 .duration(300)
 .attr("opacity", 0)
 .remove();
-svg.selectAll(".test-circle")
+svg.selectAll(".milestone-circle")
 .transition()
 .duration(300)
 .attr("opacity", 0)
@@ -157,7 +157,12 @@ svg.append("path")
 .datum(data)
 .attr("class", "steps-line")
 .attr("filter", "url(#glow)")
-.attr("d", line);
+.attr("d", line)
+.attr("opacity", 0)
+.transition()
+.delay(100)
+.duration(2000)
+.attr("opacity", 1);
 
 // Define and Append grids ---------------------------------------------------------------------
 const yGrid = d3.axisLeft(yScale)
