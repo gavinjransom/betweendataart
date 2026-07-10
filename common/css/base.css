@@ -46,7 +46,7 @@ grid-area: c;
 }
 
 nav {
-display: none;
+    display: none;
 }
 
 .menu-container {
@@ -142,7 +142,7 @@ margin-left: 10%;
 .nav-link.active {
 text-shadow: 0 0 0.5px currentColor;
 font-weight: 400;
-color: #848e6f;
+color: #757E63;
 }
 
 .nav-link.active:hover {

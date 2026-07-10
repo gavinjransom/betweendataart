@@ -9,30 +9,24 @@
 <link rel="icon" type="image/x-icon" href="common/assets/emblem-colors.png">
 </head>
 <body>
-    
-<!-- Mobile ------------------------------------------------------------------------------------------------------------------------ ***** -->
-<div id="mobile">
-<div id="container">
-<!-- Header --------------------------------------------------------------------------------- -->
-<div id="header-container"> 
-<img src="/common/assets/emblem-colors.png" alt="Image Description" class="menu-image"> 
-<h1>Between Data & Art</h1> 
-</div>
-<!-- Cards ---------------------------------------------------------------------------------- -->
-<div id="contents-container-mobile">
-    Welcome to Between Data & Art.
-    <br>
-Mobile and tablet are currently unavailable. For full access to the projects, please visit this site on a laptop/desktop. Thank you!
-</div>
-</div>
-</div>
 
 <!-- Desktop ------------------------------------------------------------------------------------------------------------------------ ***** -->
 <div id="desktop">
 <div id="container">
 <!-- Header --------------------------------------------------------------------------------- -->
-<div id="header-container"> 
-<img src="/common/assets/emblem-colors.png" alt="Image Description" class="menu-image"> 
+<div id="header-container">
+<button id="theme-toggle">
+<svg xmlns="http://www.w3.org/2000/svg" 
+viewBox="0 0 24 24" 
+fill="none" stroke="currentColor" 
+stroke-width="2" 
+stroke-linecap="round" 
+stroke-linejoin="round" 
+class="lucide lucide-lightbulb-icon lucide-lightbulb">
+<path d="M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5"/>
+<path d="M9 18h6"/><path d="M10 22h4"/></svg>
+</button>
+<img id="logo" src="/common/assets/emblem-colors.png" alt="Image Description" class="menu-image"> 
 <h1>Between Data & Art</h1> 
 </div>
 <!-- Cards ---------------------------------------------------------------------------------- -->
@@ -52,6 +46,8 @@ Mobile and tablet are currently unavailable. For full access to the projects, pl
 </div>
 </div>
 </div>
+
+<script type="module" src="common/js/theme.js"></script>
 
 </body>
 </html> 
