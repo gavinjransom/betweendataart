@@ -1,50 +1,11 @@
-:root {
---background-colour: #1d1b1b;
---text-colour: #757E63;
---hover-colour: #F5F5F5;
---glow-colour: #fff;
-}
+/* ----------- Import base css file ----------- */
+@import url("/common/css/base.css");
 
-body.light-theme {
---background-colour: #F5F5F5;
---text-colour: #3D5A99;
---hover-colour: #5680E9;
---glow-colour: #3d5a99;
-}
-
-body {
-background-color: var(--background-colour);
-color: var(--text-colour);
-font-family: "helvetica neue", Arial, Helvetica, sans-serif;
-}
-
-@media (min-width: 769px) {
-#mobile {
-display: none;
-}
-
-#desktop {
-display: block;
-}
-
-h1 {
-    font-weight: 400;
-    font-size: 60px;
-    margin: 0%;
-}
-
-.menu-image {
-height: 150px;
-width: 150px;
-margin-top: 20px;
-margin-bottom: 20px;
-}
-}
-
+/* -------------------------------------------------- Layout -------------------------------------------------- */
 #container {
-    display: flex;
-    flex-direction: column;
-    height: 100vh;
+display: flex;
+flex-direction: column;
+height: 100vh;
 }
 
 #header-container {
@@ -58,94 +19,38 @@ flex-direction: column;
 margin-top: 40px;
 }
 
-.square {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    margin-top: 100px;
+/* -------------------------------------------------- Contents -------------------------------------------------- */
 
-    padding: 20px;
-    width: 375px;
-    align-items: center;
+h1 {
+font-weight: 400;
+font-size: 60px;
+margin: 0%;
 }
 
 .list {
-    padding: 10px;
-    text-align: center;
-    text-decoration: none;
-    font-size: 20px;
-    font-weight: 200;
+padding: 10px;
+text-align: center;
+text-decoration: none;
+font-size: 20px;
+font-weight: 200;
 }
 
 a:link, a:visited {
-    text-decoration: none;
-    color: inherit;
+text-decoration: none;
+color: inherit;
 }
 
 a:hover {
-    color: var(--hover-colour);
+color: var(--hover-colour);
 }
 
-#square-img {
-    height: 250px;
-    width: 300px;
-    background-repeat: no-repeat;
-    margin-bottom: 25px; 
-}
-
-#square-text {
-    font-size: 30px;
-    color: var(--text-colour);
-    font-weight: 100;
-}
-
-.hover-image {
-    display: block; 
-    width: 100%;
-    transition: box-shadow 0.3s ease;
-}
-
-.hover-image:hover {
-    box-shadow: 0 0 5px var(--glow-colour);
-    transform: scale(1.01);
+.menu-image {
+height: 150px;
+width: 150px;
+margin-top: 20px;
+margin-bottom: 20px;
 }
 
 #info {
 margin-top: 30px;
-}
-
-#theme-toggle {
-position: absolute;
-top: 20px;
-right: 20px;
-background: none;
-border: none;
-padding: 8px;
-cursor: pointer;
-color: var(--text-colour);
-border: 1px solid transparent;
-border-radius: 8px;
-transition:
-transform 0.2s ease,
-border-color 0.2s ease,
-opacity 0.2s ease;
-}
-
-#theme-toggle:hover {
-transform: scale(1.08);
-border-color: var(--text-colour);
-}
-
-#theme-toggle:hover {
-transform: scale(1.075);
-border-color: rgba(117, 126, 99, 0.5);
-}
-
-body.light-theme #theme-toggle:hover {
-border-color: rgba(61, 90, 153, 0.5);
-}
-
-#theme-toggle svg {
-width: 40px;
-height: 40px;
 }

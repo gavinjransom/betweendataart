@@ -53,7 +53,9 @@ setTheme(isDark);
 const savedTheme = localStorage.getItem("theme");
 setTheme(savedTheme === "light")
 
+document.body.classList.add("theme-ready");
 
+// Notes
 // When we click the button, setTheme(isDark) is run. 
 // document.body.classList.toggle("light-theme", isDark) then says toggle light-theme depending on the answer of isDark
 // If isDark is true (i.e. the page is currently dark), light-theme is applied.

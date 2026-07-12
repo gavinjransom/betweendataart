@@ -8,11 +8,12 @@
 <link rel="icon" type="image/x-icon" href="../../common/assets/emblem-colors.png">
 </head>
 <body>
-<div class="desktop-container">
+<div class="page-container">
 <!-- Menu ---------------------------------------------------------------------------------- -->
 <div class="menu-container">
 <div id="menu-box">
-<img src="/common/assets/emblem-colors.png" alt="Image Description" class="menu-image"></div>
+<img id="logo" src="/common/assets/emblem-colors.png" alt="Between Data & Art" class="menu-image">
+</div>
 <ul>
 <li><a id="top" href="../../index.html">Between Data & Art</a></li>
 <li><a href="../steps/steps.html" class="nav-link active">5 Million Steps</a></li>
@@ -22,7 +23,7 @@
 </ul>
 </div>
 <!-- Main ---------------------------------------------------------------------------------- -->
-<div class="main-container desk-c">
+<div class="main-container">
 <div class="page-header">
 <h1>5 Million Steps</h1>
 <h2>Walking 5 million steps in 2024</h2>
@@ -42,16 +43,25 @@
 Hover over the milestones to learn more:<br>
 </div>
 <div class="milestones-list">
-
 </div>
 <div class="milestone-description">
 </div>
-
 </div>   
 </div>
-
 </div>
 </div>
+<button id="theme-toggle">
+<svg xmlns="http://www.w3.org/2000/svg" 
+viewBox="0 0 24 24" 
+fill="none" stroke="currentColor" 
+stroke-width="2" 
+stroke-linecap="round" 
+stroke-linejoin="round" 
+class="lucide lucide-lightbulb-icon lucide-lightbulb">
+<path d="M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5"/>
+<path d="M9 18h6"/><path d="M10 22h4"/></svg>
+</button>
+<script type="module" src="../../common/js/theme.js"></script>
 <script type="module" src="./js/steps.js"></script> 
 </body>
 </html>
