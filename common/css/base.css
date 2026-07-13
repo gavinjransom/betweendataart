@@ -125,7 +125,17 @@ margin-top: 30px;
 .nav-link.active {
 color: var(--text-colour);
 font-weight: 400;
-text-shadow: 0 0 0.5px currentColor;
+text-decoration: underline;
+text-underline-offset: 2px;
+text-decoration-thickness: 1px;
+}
+
+body.light-theme .nav-link.active {
+color: var(--text-colour);
+font-weight: 400;
+text-decoration: underline;
+text-underline-offset: 2px;
+text-decoration-thickness: 1px;
 }
 
 .nav-link.active:hover {
