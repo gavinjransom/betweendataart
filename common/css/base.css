@@ -6,7 +6,9 @@
 --glow-colour: #fff;
 --border-colour: #2f2f2f;
 --steps-line: #d96ac2;
+--milestone: #5f7a61;
 }
+
 
 body {
 background-color: var(--background-colour);
@@ -18,10 +20,11 @@ transition: background-color 0.8s ease;
 body.light-theme {
 --background-colour: #F5F5F5;
 --text-colour: #3D5A99;
---hover-colour: #5680E9;
+--hover-colour: #5a5858;
 --glow-colour: #3D5A99;
 --border-colour: #D6DCE8;
 --steps-line: #d46503;
+--milestone: #5a5858;
 }
 
 /* ========================================================== Layout ========================================================== */
@@ -139,6 +142,10 @@ text-decoration-thickness: 1px;
 }
 
 .nav-link.active:hover {
+color: var(--hover-colour);
+}
+
+body.light-theme .nav-link:hover {
 color: var(--hover-colour);
 }
 

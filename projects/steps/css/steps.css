@@ -16,7 +16,6 @@ border: 1px solid var(--border-colour);
 /* ----------- Line ----------- */
 .steps-line {
 fill: none;
-/* stroke: #d96ac2; */
 stroke: var(--steps-line);
 stroke-width: 2px;
 }
@@ -24,8 +23,8 @@ stroke-width: 2px;
 /* ----------- Grid ----------- */
 .grid line {
 stroke: var(--text-colour);
-stroke-width: 1;
-opacity: 0.15;
+stroke-width: 0.5;
+opacity: 0.5;
 }
 
 .grid path {
@@ -49,7 +48,6 @@ opacity: 0.6;
 
 /* ================================================================= Milestones Box ================================================================= */
 .milestone {
-/* border: 1px solid red; */
 margin-bottom: 20px;
 cursor: pointer;
 flex: 1;
@@ -65,13 +63,23 @@ color: var(--hover-colour);
 margin-top: 30px;
 }
 
+.milestone-circle {
+fill: none;
+stroke: var(--milestone);
+stroke-width: 2px;
+}
+
+.milestone-line {
+stroke: var(--milestone);
+stroke-width: 2px;
+}
+
 .milestone-description {
 margin-top: 40px;
 font-weight: 200;
 }
 
 .legend-line {
-/* color: #d96ac2; */
 color: var(--steps-line);
 font-weight: bold;
 }
