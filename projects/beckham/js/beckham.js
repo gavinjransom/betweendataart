@@ -4,6 +4,7 @@ import data from '../data/beckham.json'
 import * as d3 from 'd3';
 // Data
 import pitchImage from '../assets/pitch.jpg'
+import { setTheme } from '../../../common/js/theme.js';
 
 // Graph Dimensions ------------------------------------------------------------------------------------------
 const margin = {top: 20, right: 30, bottom: 40, left: 50},
@@ -39,11 +40,15 @@ const gDesktop = svgDesktop.append("g");
 // Pitch Image
 gDesktop.append("image")
 .attr("xlink:href", pitchImage)
+.attr("id", "pitch")
 .attr("x", 0)
 .attr("y", 0)
 .attr("width", initialWidth)
 .attr("height", initialHeight)
 .attr("class", "pitch");
+
+const isLightMode = document.body.classList.contains("light-theme");
+setTheme(isLightMode);
 
 // Color Scale ------------------------------------------------------------------------------------------------
 const colorScaleDesktop = d3.scaleOrdinal()

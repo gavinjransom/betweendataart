@@ -46,3 +46,14 @@ select {
 .goal-path {
     transition: opacity 0.1s ease-in-out;
 }
+
+.desktop-tooltip {
+margin-top: 15px;
+background-color: var(--background-colour);
+border-radius: 4px;
+font-size: 25px;
+font-weight: 200;
+pointer-events: none; 
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}

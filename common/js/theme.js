@@ -1,5 +1,7 @@
 import darkLogo from "../assets/emblem-colors.png";
 import lightLogo from "../assets/emblem-colors-light.png";
+import darkPitch from "../../projects/beckham/assets/pitch.jpg";
+import lightPitch from "../../projects/beckham/assets/pitch_light.jpg";
 
 const lightbulbOn = 
 `<svg xmlns="http://www.w3.org/2000/svg" 
@@ -26,19 +28,25 @@ class="lucide lucide-lightbulb-off-icon lucide-lightbulb-off">
 const button = document.getElementById("theme-toggle");
 const logo =document.getElementById("logo");
 
-
 console.log("Theme JS loaded");
 console.log("Button:", button);
 console.log("Logo:", logo);
 
-function setTheme(isDark) {
+export function setTheme(isDark) {
 document.body.classList.toggle("light-theme", isDark)
+const pitch = document.getElementById("pitch");
 if (isDark) {;
 logo.src = lightLogo;
+if (pitch) {
+pitch.setAttribute("href", lightPitch);
+pitch.setAttribute("xlink:href", lightPitch);}
 button.innerHTML = lightbulbOn;
 localStorage.setItem("theme", "light")
 } else {
 logo.src = darkLogo;
+if (pitch) {    
+pitch.setAttribute("href", darkPitch);
+pitch.setAttribute("xlink:href", darkPitch);}    
 button.innerHTML = lightbulbOff;
 localStorage.setItem("theme", "dark")
 }
