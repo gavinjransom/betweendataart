@@ -57,3 +57,15 @@ pointer-events: none;
 opacity: 0;
 transition: opacity 0.3s ease-in-out;
 }
+
+#desktop-club-filter {
+background-color: var(--background-colour);
+border-color: var(--text-colour);
+color: var(--text-colour);
+font-size: 20px;
+font-weight: 100;
+padding: 2.5px 10px 2.5px 0px;
+border-radius: 4px;
+-webkit-font-smoothing: antialiased;
+font-family: 'Open Sans Light', sans-serif;
+}
