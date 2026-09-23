@@ -23,4 +23,15 @@ stroke: var(--text-colour);
 
 .lighthouse-dot {
 fill: var(--lighthouses);
+filter: url(#glow);
+stroke: grey;
+}
+
+body.light-theme .lighthouse-dot {
+filter: none;
+stroke: none;
+}
+
+.lighthouse-dot.blink-off {
+fill: var(--background-colour);
 }

@@ -56,11 +56,11 @@ svg.selectAll('circle')
 .attr('class', 'lighthouse-dot')
 .attr('cx', d => projection([+d.Longitude, +d.Latitude])[0])
 .attr('cy', d => projection([+d.Longitude, +d.Latitude])[1])
-.attr('r', 3)
-.attr('fill', 'white')
-.attr('stroke', 'grey')
+.attr('r', 3.5)
+// .attr('fill', 'white')
+// .attr('stroke', 'grey')
 .attr('stroke-width', 0.5)
-.attr('filter', 'url(#glow)')
+// .attr('filter', 'url(#glow)')
 .attr('opacity', 0)
 .transition()
 .delay(300)
@@ -91,18 +91,26 @@ duration: [1000, 500]
 
 // 7) Lighthouse 'blink effect' --------------------------------------
 function blink() {
-svg.selectAll('circle') // Target all lighthouse dots
-.transition('blink')
-.duration(10)
-.attr('fill', '#1d1b1b')
-.transition('blink')
-.duration(10)
-.attr('fill', 'white')
-.end()
-.then(() => {setTimeout(blink, 6000);});}
+const isLightMode = document.body.classList.contains("light-theme");
+if (isLightMode) {
+setTimeout(blink, 6000);
+return;
+}
 
+svg.selectAll('circle')
+.classed('blink-off', true)
+.transition('blink')
+.duration(10)
+.end()
+.then(() => {
+svg.selectAll('.lighthouse-dot')
+.classed('blink-off', false);
+setTimeout(blink, 6000);
+});
+}
 blink();
 }
+
 
 // 8) Render --------------------------------------------------------
 
