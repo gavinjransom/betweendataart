@@ -1,9 +1,9 @@
 @import url("../../../common/css/base.css");
 @import url("./desktop.css");
 
-svg {
+/* svg {
     color:#e4e9dd
-}
+} */
 
 image {
     border: #f43307;

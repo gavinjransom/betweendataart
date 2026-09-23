@@ -7,6 +7,7 @@
 --border-colour: #2f2f2f;
 --steps-line: #d96ac2;
 --milestone: #5f7a61;
+--lighthouses: #F5F5F5;
 }
 
 
@@ -25,6 +26,7 @@ body.light-theme {
 --border-colour: #D6DCE8;
 --steps-line: #d46503;
 --milestone: #5a5858;
+--lighthouses: #aa1212;
 }
 
 /* ========================================================== Layout ========================================================== */
